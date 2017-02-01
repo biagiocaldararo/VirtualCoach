@@ -78,7 +78,7 @@ public class AzioneAggiungiGiocatore extends Azione {
 				// calcolo il risultato finale
 				giocatore.setRisultato_finale();
 
-				giocatore.printAll();
+				//giocatore.printAll();
 
 				rosa.addGiocatore(giocatore);
 
