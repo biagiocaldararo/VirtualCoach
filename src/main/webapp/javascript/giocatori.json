@@ -1,0 +1,1715 @@
+[
+	{
+		"giocatore": "ALDEGANI"
+	},
+	{
+		"giocatore": "ALISSON"
+	},
+	{
+		"giocatore": "AUDERO"
+	},
+	{
+		"giocatore": "BASSI"
+	},
+	{
+		"giocatore": "BERISHA"
+	},
+	{
+		"giocatore": "BERNI"
+	},
+	{
+		"giocatore": "BIZZARRI"
+	},
+	{
+		"giocatore": "BRESSAN"
+	},
+	{
+		"giocatore": "BUFFON"
+	},
+	{
+		"giocatore": "CARRIZO"
+	},
+	{
+		"giocatore": "COJOCARU"
+	},
+	{
+		"giocatore": "COLOMBO"
+	},
+	{
+		"giocatore": "CONSIGLI"
+	},
+	{
+		"giocatore": "COPPOLA D"
+	},
+	{
+		"giocatore": "CORDAZ"
+	},
+	{
+		"giocatore": "DA COSTA"
+	},
+	{
+		"giocatore": "DONNARUMMA G"
+	},
+	{
+		"giocatore": "DRAGOWSKI"
+	},
+	{
+		"giocatore": "FESTA"
+	},
+	{
+		"giocatore": "FIORILLO"
+	},
+	{
+		"giocatore": "FULIGNATI"
+	},
+	{
+		"giocatore": "GABRIEL"
+	},
+	{
+		"giocatore": "GOMIS A"
+	},
+	{
+		"giocatore": "HANDANOVIC"
+	},
+	{
+		"giocatore": "HART"
+	},
+	{
+		"giocatore": "KARNEZIS"
+	},
+	{
+		"giocatore": "KRAPIKAS"
+	},
+	{
+		"giocatore": "LAMANNA"
+	},
+	{
+		"giocatore": "LEZZERINI"
+	},
+	{
+		"giocatore": "LOBONT"
+	},
+	{
+		"giocatore": "MARCHETTI"
+	},
+	{
+		"giocatore": "MARSON"
+	},
+	{
+		"giocatore": "MAZZINI"
+	},
+	{
+		"giocatore": "MIRANTE"
+	},
+	{
+		"giocatore": "NETO"
+	},
+	{
+		"giocatore": "PADELLI"
+	},
+	{
+		"giocatore": "PEGOLO"
+	},
+	{
+		"giocatore": "PELAGOTTI"
+	},
+	{
+		"giocatore": "PERIN"
+	},
+	{
+		"giocatore": "PERISAN"
+	},
+	{
+		"giocatore": "PLIZZARI"
+	},
+	{
+		"giocatore": "POMINI"
+	},
+	{
+		"giocatore": "POSAVEC"
+	},
+	{
+		"giocatore": "PUGGIONI"
+	},
+	{
+		"giocatore": "PUGLIESI"
+	},
+	{
+		"giocatore": "RADU I"
+	},
+	{
+		"giocatore": "RAFAEL CABRAL"
+	},
+	{
+		"giocatore": "RAFAEL"
+	},
+	{
+		"giocatore": "REINA"
+	},
+	{
+		"giocatore": "SARR"
+	},
+	{
+		"giocatore": "SCUFFET"
+	},
+	{
+		"giocatore": "SECULIN"
+	},
+	{
+		"giocatore": "SEPE"
+	},
+	{
+		"giocatore": "SKORUPSKI"
+	},
+	{
+		"giocatore": "SORRENTINO"
+	},
+	{
+		"giocatore": "SPORTIELLO"
+	},
+	{
+		"giocatore": "STORARI"
+	},
+	{
+		"giocatore": "STRAKOSHA"
+	},
+	{
+		"giocatore": "SZCZESNY"
+	},
+	{
+		"giocatore": "TATARUSANU"
+	},
+	{
+		"giocatore": "TOZZO"
+	},
+	{
+		"giocatore": "VARGIC"
+	},
+	{
+		"giocatore": "VISCOVO"
+	},
+	{
+		"giocatore": "VIVIANO"
+	},
+	{
+		"giocatore": "ZIMA"
+	},
+	{
+		"giocatore": "ABATE"
+	},
+	{
+		"giocatore": "ACERBI"
+	},
+	{
+		"giocatore": "ADJAPONG"
+	},
+	{
+		"giocatore": "ADNAN"
+	},
+	{
+		"giocatore": "AJETI"
+	},
+	{
+		"giocatore": "ALBIOL"
+	},
+	{
+		"giocatore": "ALEESAMI"
+	},
+	{
+		"giocatore": "ALEX SANDRO"
+	},
+	{
+		"giocatore": "BRUNO ALVES"
+	},
+	{
+		"giocatore": "DANI ALVES"
+	},
+	{
+		"giocatore": "AMUZIE"
+	},
+	{
+		"giocatore": "ANDELKOVIC"
+	},
+	{
+		"giocatore": "ANDREOLLI"
+	},
+	{
+		"giocatore": "ANGELLA"
+	},
+	{
+		"giocatore": "ANIBAL"
+	},
+	{
+		"giocatore": "ANSALDI"
+	},
+	{
+		"giocatore": "ANTEI"
+	},
+	{
+		"giocatore": "ANTONELLI"
+	},
+	{
+		"giocatore": "ARMERO"
+	},
+	{
+		"giocatore": "ASTORI"
+	},
+	{
+		"giocatore": "AVELAR"
+	},
+	{
+		"giocatore": "BARBA"
+	},
+	{
+		"giocatore": "BARRECA"
+	},
+	{
+		"giocatore": "BARZAGLI"
+	},
+	{
+		"giocatore": "BASTA"
+	},
+	{
+		"giocatore": "BASTOS"
+	},
+	{
+		"giocatore": "BELLUSCI"
+	},
+	{
+		"giocatore": "BENATIA"
+	},
+	{
+		"giocatore": "BIRAGHI"
+	},
+	{
+		"giocatore": "BIRASCHI"
+	},
+	{
+		"giocatore": "BITTANTE"
+	},
+	{
+		"giocatore": "BONUCCI"
+	},
+	{
+		"giocatore": "BOVO"
+	},
+	{
+		"giocatore": "BRIVIO"
+	},
+	{
+		"giocatore": "BURDISSO"
+	},
+	{
+		"giocatore": "CACCIATORE"
+	},
+	{
+		"giocatore": "CALABRIA"
+	},
+	{
+		"giocatore": "CALDARA"
+	},
+	{
+		"giocatore": "CAMPAGNARO"
+	},
+	{
+		"giocatore": "CANNAVARO"
+	},
+	{
+		"giocatore": "CAPUANO"
+	},
+	{
+		"giocatore": "CASTAN"
+	},
+	{
+		"giocatore": "CECCHERINI"
+	},
+	{
+		"giocatore": "CEPPITELLI"
+	},
+	{
+		"giocatore": "CESAR"
+	},
+	{
+		"giocatore": "CHIELLINI"
+	},
+	{
+		"giocatore": "CHIRICHES"
+	},
+	{
+		"giocatore": "CIONEK"
+	},
+	{
+		"giocatore": "CISSOKHO"
+	},
+	{
+		"giocatore": "CODA"
+	},
+	{
+		"giocatore": "CONTI"
+	},
+	{
+		"giocatore": "COSIC"
+	},
+	{
+		"giocatore": "COSTA"
+	},
+	{
+		"giocatore": "COSTA F"
+	},
+	{
+		"giocatore": "CRESCENZI"
+	},
+	{
+		"giocatore": "CUOMO"
+	},
+	{
+		"giocatore": "DAINELLI"
+	},
+	{
+		"giocatore": "D'AMBROSIO"
+	},
+	{
+		"giocatore": "DANILO"
+	},
+	{
+		"giocatore": "DE MAIO"
+	},
+	{
+		"giocatore": "DE SCIGLIO"
+	},
+	{
+		"giocatore": "DE SILVESTRI"
+	},
+	{
+		"giocatore": "DE VRIJ"
+	},
+	{
+		"giocatore": "DELL'ORCO"
+	},
+	{
+		"giocatore": "DIKS"
+	},
+	{
+		"giocatore": "DIMARCO"
+	},
+	{
+		"giocatore": "DODO'"
+	},
+	{
+		"giocatore": "CLAITON"
+	},
+	{
+		"giocatore": "DRAME'"
+	},
+	{
+		"giocatore": "DUSSENNE"
+	},
+	{
+		"giocatore": "EDENILSON"
+	},
+	{
+		"giocatore": "RODRIGO ELY"
+	},
+	{
+		"giocatore": "EMERSON"
+	},
+	{
+		"giocatore": "EVRA"
+	},
+	{
+		"giocatore": "FARAONI"
+	},
+	{
+		"giocatore": "FAZIO"
+	},
+	{
+		"giocatore": "FELIPE"
+	},
+	{
+		"giocatore": "FERRARI A"
+	},
+	{
+		"giocatore": "FERRARI G"
+	},
+	{
+		"giocatore": "FIAMOZZI"
+	},
+	{
+		"giocatore": "FLORENZI"
+	},
+	{
+		"giocatore": "FORNASIER"
+	},
+	{
+		"giocatore": "FREY"
+	},
+	{
+		"giocatore": "GAMBERINI"
+	},
+	{
+		"giocatore": "GASTALDELLO"
+	},
+	{
+		"giocatore": "GAZZOLA"
+	},
+	{
+		"giocatore": "GENTILETTI"
+	},
+	{
+		"giocatore": "GHOULAM"
+	},
+	{
+		"giocatore": "GIULIANO"
+	},
+	{
+		"giocatore": "GOBBI"
+	},
+	{
+		"giocatore": "GOLDANIGA"
+	},
+	{
+		"giocatore": "GOMEZ G"
+	},
+	{
+		"giocatore": "GONZALEZ G"
+	},
+	{
+		"giocatore": "GRANATA"
+	},
+	{
+		"giocatore": "GYOMBER"
+	},
+	{
+		"giocatore": "HELANDER"
+	},
+	{
+		"giocatore": "HEURTAUX"
+	},
+	{
+		"giocatore": "HOEDT"
+	},
+	{
+		"giocatore": "HYSAJ"
+	},
+	{
+		"giocatore": "IERARDI"
+	},
+	{
+		"giocatore": "ISLA"
+	},
+	{
+		"giocatore": "IZZO"
+	},
+	{
+		"giocatore": "JUAN JESUS"
+	},
+	{
+		"giocatore": "KONKO"
+	},
+	{
+		"giocatore": "KOULIBALY"
+	},
+	{
+		"giocatore": "KRAFTH"
+	},
+	{
+		"giocatore": "KRAJNC"
+	},
+	{
+		"giocatore": "LASICKI"
+	},
+	{
+		"giocatore": "LAURINI"
+	},
+	{
+		"giocatore": "LETSCHERT"
+	},
+	{
+		"giocatore": "LICHTSTEINER"
+	},
+	{
+		"giocatore": "LIROLA"
+	},
+	{
+		"giocatore": "LUKAKU"
+	},
+	{
+		"giocatore": "MAGGIO"
+	},
+	{
+		"giocatore": "MAIETTA"
+	},
+	{
+		"giocatore": "MAKSIMOVIC"
+	},
+	{
+		"giocatore": "MALOKU"
+	},
+	{
+		"giocatore": "MANOLAS"
+	},
+	{
+		"giocatore": "MARCHIZZA"
+	},
+	{
+		"giocatore": "MARIO RUI"
+	},
+	{
+		"giocatore": "MARTELLA"
+	},
+	{
+		"giocatore": "MASIELLO A"
+	},
+	{
+		"giocatore": "MASINA"
+	},
+	{
+		"giocatore": "MATTIELLO"
+	},
+	{
+		"giocatore": "MBAYE"
+	},
+	{
+		"giocatore": "MESBAH"
+	},
+	{
+		"giocatore": "MIANGUE"
+	},
+	{
+		"giocatore": "MILIC"
+	},
+	{
+		"giocatore": "MIRANDA"
+	},
+	{
+		"giocatore": "MOLINARO"
+	},
+	{
+		"giocatore": "MORETTI"
+	},
+	{
+		"giocatore": "MORGANELLA"
+	},
+	{
+		"giocatore": "MORLEO"
+	},
+	{
+		"giocatore": "MUNOZ"
+	},
+	{
+		"giocatore": "MURILLO"
+	},
+	{
+		"giocatore": "MURRU"
+	},
+	{
+		"giocatore": "NAGATOMO"
+	},
+	{
+		"giocatore": "NURA"
+	},
+	{
+		"giocatore": "OIKONOMOU"
+	},
+	{
+		"giocatore": "OLIVERA M"
+	},
+	{
+		"giocatore": "ORBAN"
+	},
+	{
+		"giocatore": "PALETTA"
+	},
+	{
+		"giocatore": "PASQUAL"
+	},
+	{
+		"giocatore": "PATRIC"
+	},
+	{
+		"giocatore": "PAVLOVIC"
+	},
+	{
+		"giocatore": "PELUSO"
+	},
+	{
+		"giocatore": "PEREIRA P"
+	},
+	{
+		"giocatore": "BRUNO PERES"
+	},
+	{
+		"giocatore": "PEZZELLA"
+	},
+	{
+		"giocatore": "PISACANE"
+	},
+	{
+		"giocatore": "PRCE"
+	},
+	{
+		"giocatore": "PUNZI"
+	},
+	{
+		"giocatore": "RADU"
+	},
+	{
+		"giocatore": "RAIMONDI"
+	},
+	{
+		"giocatore": "RAJKOVIC"
+	},
+	{
+		"giocatore": "RANOCCHIA"
+	},
+	{
+		"giocatore": "REGINI"
+	},
+	{
+		"giocatore": "RISPOLI"
+	},
+	{
+		"giocatore": "RODRIGUEZ GO"
+	},
+	{
+		"giocatore": "ROMAGNOLI A"
+	},
+	{
+		"giocatore": "ROSI"
+	},
+	{
+		"giocatore": "ROSSETTINI"
+	},
+	{
+		"giocatore": "RUDIGER"
+	},
+	{
+		"giocatore": "RUGANI"
+	},
+	{
+		"giocatore": "SALAMON"
+	},
+	{
+		"giocatore": "SALCEDO"
+	},
+	{
+		"giocatore": "SAMIR"
+	},
+	{
+		"giocatore": "SAMPIRISI"
+	},
+	{
+		"giocatore": "SANTON"
+	},
+	{
+		"giocatore": "SARDO"
+	},
+	{
+		"giocatore": "SECK"
+	},
+	{
+		"giocatore": "SILVESTRE"
+	},
+	{
+		"giocatore": "SKRINIAR"
+	},
+	{
+		"giocatore": "SPOLLI"
+	},
+	{
+		"giocatore": "STENDARDO"
+	},
+	{
+		"giocatore": "STRINIC"
+	},
+	{
+		"giocatore": "SUAGHER"
+	},
+	{
+		"giocatore": "TERRANOVA"
+	},
+	{
+		"giocatore": "TOLOI"
+	},
+	{
+		"giocatore": "TOMOVIC"
+	},
+	{
+		"giocatore": "TONELLI"
+	},
+	{
+		"giocatore": "TOROSIDIS"
+	},
+	{
+		"giocatore": "TROIANI"
+	},
+	{
+		"giocatore": "VANGIONI"
+	},
+	{
+		"giocatore": "VERMAELEN"
+	},
+	{
+		"giocatore": "VESELI"
+	},
+	{
+		"giocatore": "VITIELLO"
+	},
+	{
+		"giocatore": "VITTURINI"
+	},
+	{
+		"giocatore": "WAGUE"
+	},
+	{
+		"giocatore": "WALLACE"
+	},
+	{
+		"giocatore": "WIDMER"
+	},
+	{
+		"giocatore": "YAO"
+	},
+	{
+		"giocatore": "ZAMBELLI"
+	},
+	{
+		"giocatore": "ZAMPANO F"
+	},
+	{
+		"giocatore": "ZAPATA C"
+	},
+	{
+		"giocatore": "ZAPPACOSTA"
+	},
+	{
+		"giocatore": "ZUKANOVIC"
+	},
+	{
+		"giocatore": "ZUPARIC"
+	},
+	{
+		"giocatore": "ACQUAH"
+	},
+	{
+		"giocatore": "ALLAN"
+	},
+	{
+		"giocatore": "ALVAREZ R"
+	},
+	{
+		"giocatore": "AQUILANI"
+	},
+	{
+		"giocatore": "ARAMU"
+	},
+	{
+		"giocatore": "ASAMOAH"
+	},
+	{
+		"giocatore": "BADELJ"
+	},
+	{
+		"giocatore": "BADU"
+	},
+	{
+		"giocatore": "BALIC"
+	},
+	{
+		"giocatore": "BANEGA"
+	},
+	{
+		"giocatore": "BARBERIS"
+	},
+	{
+		"giocatore": "BARELLA"
+	},
+	{
+		"giocatore": "BARRETO E"
+	},
+	{
+		"giocatore": "BASELLI"
+	},
+	{
+		"giocatore": "BASTIEN"
+	},
+	{
+		"giocatore": "BENALI"
+	},
+	{
+		"giocatore": "BENASSI"
+	},
+	{
+		"giocatore": "BERNARDESCHI"
+	},
+	{
+		"giocatore": "BERTOLACCI"
+	},
+	{
+		"giocatore": "BIABIANY"
+	},
+	{
+		"giocatore": "BIGLIA"
+	},
+	{
+		"giocatore": "BIONDINI"
+	},
+	{
+		"giocatore": "BIRSA"
+	},
+	{
+		"giocatore": "BONAVENTURA"
+	},
+	{
+		"giocatore": "BORJA VALERO"
+	},
+	{
+		"giocatore": "BOUY"
+	},
+	{
+		"giocatore": "BROZOVIC"
+	},
+	{
+		"giocatore": "BRUGMAN"
+	},
+	{
+		"giocatore": "BRUNO"
+	},
+	{
+		"giocatore": "BUCHEL"
+	},
+	{
+		"giocatore": "CABEZAS"
+	},
+	{
+		"giocatore": "CANDREVA"
+	},
+	{
+		"giocatore": "CAPEZZI"
+	},
+	{
+		"giocatore": "CARBONERO"
+	},
+	{
+		"giocatore": "CARMONA"
+	},
+	{
+		"giocatore": "CASTRO"
+	},
+	{
+		"giocatore": "CATALDI"
+	},
+	{
+		"giocatore": "CHOCHEV"
+	},
+	{
+		"giocatore": "CIGARINI"
+	},
+	{
+		"giocatore": "COFIE"
+	},
+	{
+		"giocatore": "CRISETIG"
+	},
+	{
+		"giocatore": "CRISTANTE"
+	},
+	{
+		"giocatore": "CRISTOFORO"
+	},
+	{
+		"giocatore": "CROCE"
+	},
+	{
+		"giocatore": "CUADRADO"
+	},
+	{
+		"giocatore": "D'ALESSANDRO"
+	},
+	{
+		"giocatore": "DE GUZMAN"
+	},
+	{
+		"giocatore": "DE PAUL"
+	},
+	{
+		"giocatore": "DE ROSSI"
+	},
+	{
+		"giocatore": "DEPAOLI"
+	},
+	{
+		"giocatore": "DESSENA"
+	},
+	{
+		"giocatore": "DI FRANCESCO F"
+	},
+	{
+		"giocatore": "DI GENNARO D"
+	},
+	{
+		"giocatore": "DIAKHATE"
+	},
+	{
+		"giocatore": "DIAMANTI"
+	},
+	{
+		"giocatore": "DIAWARA"
+	},
+	{
+		"giocatore": "DIOUSSE'"
+	},
+	{
+		"giocatore": "DONSAH"
+	},
+	{
+		"giocatore": "DUNCAN"
+	},
+	{
+		"giocatore": "DZEMAILI"
+	},
+	{
+		"giocatore": "EL KADDOURI"
+	},
+	{
+		"giocatore": "EMBALO"
+	},
+	{
+		"giocatore": "ERAMO"
+	},
+	{
+		"giocatore": "LUCAS EVANGELISTA"
+	},
+	{
+		"giocatore": "FAZZI"
+	},
+	{
+		"giocatore": "FELIPE ANDERSON"
+	},
+	{
+		"giocatore": "BRUNO FERNANDES"
+	},
+	{
+		"giocatore": "FERNANDEZ M"
+	},
+	{
+		"giocatore": "FOFANA"
+	},
+	{
+		"giocatore": "FREULER"
+	},
+	{
+		"giocatore": "GAGLIARDINI"
+	},
+	{
+		"giocatore": "GAKPE'"
+	},
+	{
+		"giocatore": "GAZZI"
+	},
+	{
+		"giocatore": "GIACCHERINI"
+	},
+	{
+		"giocatore": "GNAHORE'"
+	},
+	{
+		"giocatore": "GNOUKOURI"
+	},
+	{
+		"giocatore": "GOMEZ A"
+	},
+	{
+		"giocatore": "GRASSI"
+	},
+	{
+		"giocatore": "GUSTAFSON"
+	},
+	{
+		"giocatore": "HALLFREDSSON"
+	},
+	{
+		"giocatore": "HAMSIK"
+	},
+	{
+		"giocatore": "BRUNO HENRIQUE"
+	},
+	{
+		"giocatore": "HERNANES"
+	},
+	{
+		"giocatore": "HETEMAJ"
+	},
+	{
+		"giocatore": "HILJEMARK"
+	},
+	{
+		"giocatore": "HONDA"
+	},
+	{
+		"giocatore": "IAGO FALQUE"
+	},
+	{
+		"giocatore": "IONITA"
+	},
+	{
+		"giocatore": "IZCO"
+	},
+	{
+		"giocatore": "JAJALO"
+	},
+	{
+		"giocatore": "JALLOW"
+	},
+	{
+		"giocatore": "JANKTO"
+	},
+	{
+		"giocatore": "JOAO MARIO"
+	},
+	{
+		"giocatore": "JOAO PEDRO"
+	},
+	{
+		"giocatore": "JORGINHO"
+	},
+	{
+		"giocatore": "KESSIE'"
+	},
+	{
+		"giocatore": "KHEDIRA"
+	},
+	{
+		"giocatore": "KONDOGBIA"
+	},
+	{
+		"giocatore": "KONE"
+	},
+	{
+		"giocatore": "KREJCI"
+	},
+	{
+		"giocatore": "KRUNIC"
+	},
+	{
+		"giocatore": "KUCKA"
+	},
+	{
+		"giocatore": "KUMS"
+	},
+	{
+		"giocatore": "KURTIC"
+	},
+	{
+		"giocatore": "LAXALT"
+	},
+	{
+		"giocatore": "LAZOVIC"
+	},
+	{
+		"giocatore": "LEITNER"
+	},
+	{
+		"giocatore": "LEMINA"
+	},
+	{
+		"giocatore": "LINETTY"
+	},
+	{
+		"giocatore": "LJAJIC"
+	},
+	{
+		"giocatore": "LOCATELLI M"
+	},
+	{
+		"giocatore": "LODI"
+	},
+	{
+		"giocatore": "LUKIC"
+	},
+	{
+		"giocatore": "LULIC"
+	},
+	{
+		"giocatore": "MAGNANELLI"
+	},
+	{
+		"giocatore": "MAIELLO"
+	},
+	{
+		"giocatore": "MANDRAGORA"
+	},
+	{
+		"giocatore": "MARCHISIO"
+	},
+	{
+		"giocatore": "MATHEUS PEREIRA"
+	},
+	{
+		"giocatore": "MAURI J"
+	},
+	{
+		"giocatore": "MAZZITELLI"
+	},
+	{
+		"giocatore": "MEDEL"
+	},
+	{
+		"giocatore": "FELIPE MELO"
+	},
+	{
+		"giocatore": "MEMUSHAJ"
+	},
+	{
+		"giocatore": "MERTENS"
+	},
+	{
+		"giocatore": "MIGLIACCIO"
+	},
+	{
+		"giocatore": "MILINKOVIC-SAVIC"
+	},
+	{
+		"giocatore": "MINALA"
+	},
+	{
+		"giocatore": "MISSIROLI"
+	},
+	{
+		"giocatore": "MITRITA"
+	},
+	{
+		"giocatore": "MONTOLIVO"
+	},
+	{
+		"giocatore": "MORRISON"
+	},
+	{
+		"giocatore": "MOUNIER"
+	},
+	{
+		"giocatore": "MUNARI"
+	},
+	{
+		"giocatore": "MURGIA"
+	},
+	{
+		"giocatore": "MURIC"
+	},
+	{
+		"giocatore": "NAGY"
+	},
+	{
+		"giocatore": "NAINGGOLAN"
+	},
+	{
+		"giocatore": "NICOLETTI"
+	},
+	{
+		"giocatore": "NINKOVIC"
+	},
+	{
+		"giocatore": "NTCHAM"
+	},
+	{
+		"giocatore": "OBI"
+	},
+	{
+		"giocatore": "PADOIN"
+	},
+	{
+		"giocatore": "PALOMBO"
+	},
+	{
+		"giocatore": "PAREDES"
+	},
+	{
+		"giocatore": "PAROLO"
+	},
+	{
+		"giocatore": "PASALIC"
+	},
+	{
+		"giocatore": "PELLEGRINI"
+	},
+	{
+		"giocatore": "PEPE"
+	},
+	{
+		"giocatore": "PERISIC"
+	},
+	{
+		"giocatore": "PEROTTI"
+	},
+	{
+		"giocatore": "PJANIC"
+	},
+	{
+		"giocatore": "POLI"
+	},
+	{
+		"giocatore": "POLITANO"
+	},
+	{
+		"giocatore": "PRAET"
+	},
+	{
+		"giocatore": "PULGAR"
+	},
+	{
+		"giocatore": "QUAISON"
+	},
+	{
+		"giocatore": "RADOVANOVIC"
+	},
+	{
+		"giocatore": "RIGONI"
+	},
+	{
+		"giocatore": "RIGONI N"
+	},
+	{
+		"giocatore": "RINCON"
+	},
+	{
+		"giocatore": "RIZZO"
+	},
+	{
+		"giocatore": "ROG"
+	},
+	{
+		"giocatore": "ROHDEN"
+	},
+	{
+		"giocatore": "SALA"
+	},
+	{
+		"giocatore": "SALZANO"
+	},
+	{
+		"giocatore": "SANCHEZ"
+	},
+	{
+		"giocatore": "SAPONARA"
+	},
+	{
+		"giocatore": "SARZI"
+	},
+	{
+		"giocatore": "SENSI"
+	},
+	{
+		"giocatore": "JOSE' SOSA"
+	},
+	{
+		"giocatore": "SPINAZZOLA"
+	},
+	{
+		"giocatore": "STOIAN"
+	},
+	{
+		"giocatore": "STROOTMAN"
+	},
+	{
+		"giocatore": "STURARO"
+	},
+	{
+		"giocatore": "SUSO"
+	},
+	{
+		"giocatore": "TABACCHI"
+	},
+	{
+		"giocatore": "TACHTSIDIS"
+	},
+	{
+		"giocatore": "TAIDER"
+	},
+	{
+		"giocatore": "TELLO A"
+	},
+	{
+		"giocatore": "TELLO C"
+	},
+	{
+		"giocatore": "TOLEDO"
+	},
+	{
+		"giocatore": "TONEV"
+	},
+	{
+		"giocatore": "TORREIRA"
+	},
+	{
+		"giocatore": "VALDIFIORI"
+	},
+	{
+		"giocatore": "VECINO"
+	},
+	{
+		"giocatore": "MIGUEL VELOSO"
+	},
+	{
+		"giocatore": "VERDI"
+	},
+	{
+		"giocatore": "VERRE"
+	},
+	{
+		"giocatore": "VIVES"
+	},
+	{
+		"giocatore": "VIVIANI"
+	},
+	{
+		"giocatore": "ZANELLATO"
+	},
+	{
+		"giocatore": "ZANIMACCHIA"
+	},
+	{
+		"giocatore": "ZIELINSKI"
+	},
+	{
+		"giocatore": "ZONTA"
+	},
+	{
+		"giocatore": "ACATULLO"
+	},
+	{
+		"giocatore": "ACQUAFRESCA"
+	},
+	{
+		"giocatore": "LUIS ALBERTO"
+	},
+	{
+		"giocatore": "ARRAS"
+	},
+	{
+		"giocatore": "BABACAR"
+	},
+	{
+		"giocatore": "BACCA"
+	},
+	{
+		"giocatore": "BAHEBECK"
+	},
+	{
+		"giocatore": "BALOGH"
+	},
+	{
+		"giocatore": "BELOTTI"
+	},
+	{
+		"giocatore": "BENTIVEGNA"
+	},
+	{
+		"giocatore": "BERARDI"
+	},
+	{
+		"giocatore": "BORRIELLO"
+	},
+	{
+		"giocatore": "BOYE'"
+	},
+	{
+		"giocatore": "BUDIMIR"
+	},
+	{
+		"giocatore": "CALLEJON"
+	},
+	{
+		"giocatore": "CAPRARI"
+	},
+	{
+		"giocatore": "CASSANO"
+	},
+	{
+		"giocatore": "CHIESA"
+	},
+	{
+		"giocatore": "DE GIORGIO"
+	},
+	{
+		"giocatore": "DEFREL"
+	},
+	{
+		"giocatore": "DEL SOLE"
+	},
+	{
+		"giocatore": "DESTRO"
+	},
+	{
+		"giocatore": "DJORDJEVIC"
+	},
+	{
+		"giocatore": "DJURICIC"
+	},
+	{
+		"giocatore": "DYBALA"
+	},
+	{
+		"giocatore": "DZEKO"
+	},
+	{
+		"giocatore": "EDER"
+	},
+	{
+		"giocatore": "EL SHAARAWY"
+	},
+	{
+		"giocatore": "EWANDRO"
+	},
+	{
+		"giocatore": "FALCINELLI"
+	},
+	{
+		"giocatore": "FARIAS"
+	},
+	{
+		"giocatore": "FLOCCARI"
+	},
+	{
+		"giocatore": "FLORO FLORES"
+	},
+	{
+		"giocatore": "GABBIADINI"
+	},
+	{
+		"giocatore": "GABIGOL"
+	},
+	{
+		"giocatore": "GERSON"
+	},
+	{
+		"giocatore": "GIANNETTI"
+	},
+	{
+		"giocatore": "GILARDINO"
+	},
+	{
+		"giocatore": "HAGI"
+	},
+	{
+		"giocatore": "HIGUAIN"
+	},
+	{
+		"giocatore": "ICARDI"
+	},
+	{
+		"giocatore": "IEMMELLO"
+	},
+	{
+		"giocatore": "ILICIC"
+	},
+	{
+		"giocatore": "IMMOBILE"
+	},
+	{
+		"giocatore": "INGLESE"
+	},
+	{
+		"giocatore": "INSIGNE"
+	},
+	{
+		"giocatore": "INSIGNE R"
+	},
+	{
+		"giocatore": "ITURBE"
+	},
+	{
+		"giocatore": "JOVETIC"
+	},
+	{
+		"giocatore": "KALINIC"
+	},
+	{
+		"giocatore": "KEITA B"
+	},
+	{
+		"giocatore": "KISHNA"
+	},
+	{
+		"giocatore": "LAPADULA"
+	},
+	{
+		"giocatore": "LATTE"
+	},
+	{
+		"giocatore": "LO FASO"
+	},
+	{
+		"giocatore": "LOMBARDI"
+	},
+	{
+		"giocatore": "LUIZ ADRIANO"
+	},
+	{
+		"giocatore": "MACCARONE"
+	},
+	{
+		"giocatore": "MANAJ"
+	},
+	{
+		"giocatore": "MANDZUKIC"
+	},
+	{
+		"giocatore": "MARILUNGO"
+	},
+	{
+		"giocatore": "MARTINEZ"
+	},
+	{
+		"giocatore": "MATOS"
+	},
+	{
+		"giocatore": "MATRI"
+	},
+	{
+		"giocatore": "MAXI LOPEZ"
+	},
+	{
+		"giocatore": "MCHEDLIDZE"
+	},
+	{
+		"giocatore": "MEGGIORINI"
+	},
+	{
+		"giocatore": "MELCHIORRI"
+	},
+	{
+		"giocatore": "MILIK"
+	},
+	{
+		"giocatore": "MIRANDA"
+	},
+	{
+		"giocatore": "MURIEL"
+	},
+	{
+		"giocatore": "NALINI"
+	},
+	{
+		"giocatore": "NEGRO"
+	},
+	{
+		"giocatore": "NESTOROVSKI"
+	},
+	{
+		"giocatore": "NIANG"
+	},
+	{
+		"giocatore": "OCAMPOS"
+	},
+	{
+		"giocatore": "PALACIO"
+	},
+	{
+		"giocatore": "PALLADINO"
+	},
+	{
+		"giocatore": "PALOSCHI"
+	},
+	{
+		"giocatore": "PANDEV"
+	},
+	{
+		"giocatore": "PARIGINI"
+	},
+	{
+		"giocatore": "PAVOLETTI"
+	},
+	{
+		"giocatore": "PELLISSIER"
+	},
+	{
+		"giocatore": "PENARANDA"
+	},
+	{
+		"giocatore": "PERICA"
+	},
+	{
+		"giocatore": "PESIC"
+	},
+	{
+		"giocatore": "PETAGNA"
+	},
+	{
+		"giocatore": "PETTINARI"
+	},
+	{
+		"giocatore": "PIERINI"
+	},
+	{
+		"giocatore": "PINAMONTI"
+	},
+	{
+		"giocatore": "PINILLA"
+	},
+	{
+		"giocatore": "PJACA"
+	},
+	{
+		"giocatore": "PUCCIARELLI"
+	},
+	{
+		"giocatore": "QUAGLIARELLA"
+	},
+	{
+		"giocatore": "RAGUSA"
+	},
+	{
+		"giocatore": "RICCI"
+	},
+	{
+		"giocatore": "SADIQ"
+	},
+	{
+		"giocatore": "SALAH"
+	},
+	{
+		"giocatore": "SALLAI"
+	},
+	{
+		"giocatore": "SAU"
+	},
+	{
+		"giocatore": "SCHICK"
+	},
+	{
+		"giocatore": "SIMEONE"
+	},
+	{
+		"giocatore": "SIMY"
+	},
+	{
+		"giocatore": "SOLERI"
+	},
+	{
+		"giocatore": "TCHANTURIA"
+	},
+	{
+		"giocatore": "THEREAU"
+	},
+	{
+		"giocatore": "TOTTI"
+	},
+	{
+		"giocatore": "TOUNKARA"
+	},
+	{
+		"giocatore": "TRAJKOVSKI"
+	},
+	{
+		"giocatore": "TROTTA"
+	},
+	{
+		"giocatore": "ZAPATA D"
+	},
+	{
+		"giocatore": "ZARATE"
+	},
+	{
+		"giocatore": "ZECCA"
+	}
+]

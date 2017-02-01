@@ -1,0 +1,6 @@
+.row.content {
+	background: url(../images/campo2.png) no-repeat;
+	background-position: 500px 50px;
+	background-attachment: inherit;
+	background-size: 55%;
+}
