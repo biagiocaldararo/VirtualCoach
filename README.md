@@ -30,6 +30,8 @@ Dopo aver importato il progetto per eseguirlo tasto destro sul progetto:
 * Run As -> Maven Install 
 * Run As -> Run on Server (selezionando Tomcat)
 
+NB: possono verificarsi problemi di visualizzazione (vedi SU BROWSER)
+
 ### SU BROWSER
 
 In alternativa si può eseguire il progetto direttamente su browser:
