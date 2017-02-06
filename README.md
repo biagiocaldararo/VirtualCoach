@@ -22,6 +22,8 @@ git clone https://github.com/biagiocaldararo/VirtualCoach.git
 
 Per clonare il progetto nella directory corrente. A questo punto per importare il progetto in Eclipse basterà fare Import -> Existing Maven Projects e selezionare la directory del progetto appena clonato.
 
+NB: potrebbero esserci degli errori nel progetto; questo è dovuto ad alcuni file in formato bson necessari per l'interazione con mongoDB che è diverso da un normale json
+
 ##ESEGUIRE IL PROGETTO
 
 ### SU ECLIPSE
