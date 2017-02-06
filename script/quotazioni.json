@@ -1,0 +1,576 @@
+{ "nome": "ALDEGANI", "ruolo": "P", "squadra": "Pescara", "qa": 1, "qi": 1 }
+{ "nome": "ALISSON", "ruolo": "P", "squadra": "Roma", "qa": 2, "qi": 2 }
+{ "nome": "AUDERO", "ruolo": "P", "squadra": "Juventus", "qa": 1, "qi": 1 }
+{ "nome": "BASSI", "ruolo": "P", "squadra": "Atalanta", "qa": 1, "qi": 1 }
+{ "nome": "BERISHA", "ruolo": "P", "squadra": "Atalanta", "qa": 9, "qi": 1 }
+{ "nome": "BERNI", "ruolo": "P", "squadra": "Inter", "qa": 1, "qi": 1 }
+{ "nome": "BIZZARRI", "ruolo": "P", "squadra": "Pescara", "qa": 9, "qi": 8 }
+{ "nome": "BRESSAN", "ruolo": "P", "squadra": "Chievo", "qa": 1, "qi": 1 }
+{ "nome": "BUFFON", "ruolo": "P", "squadra": "Juventus", "qa": 18, "qi": 17 }
+{ "nome": "CARRIZO", "ruolo": "P", "squadra": "Inter", "qa": 1, "qi": 1 }
+{ "nome": "COJOCARU", "ruolo": "P", "squadra": "Crotone", "qa": 1, "qi": 1 }
+{ "nome": "COLOMBO", "ruolo": "P", "squadra": "Cagliari", "qa": 1, "qi": 1 }
+{ "nome": "CONSIGLI", "ruolo": "P", "squadra": "Sassuolo", "qa": 15, "qi": 13 }
+{ "nome": "CORDAZ", "ruolo": "P", "squadra": "Crotone", "qa": 15, "qi": 8 }
+{ "nome": "CUCCHIETTI", "ruolo": "P", "squadra": "Torino", "qa": 1, "qi": 1 }
+{ "nome": "DA COSTA", "ruolo": "P", "squadra": "Bologna", "qa": 7, "qi": 1 }
+{ "nome": "DONNARUMMA G", "ruolo": "P", "squadra": "Milan", "qa": 21, "qi": 13 }
+{ "nome": "DRAGOWSKI", "ruolo": "P", "squadra": "Fiorentina", "qa": 1, "qi": 1 }
+{ "nome": "FESTA", "ruolo": "P", "squadra": "Crotone", "qa": 3, "qi": 1 }
+{ "nome": "FIORILLO", "ruolo": "P", "squadra": "Pescara", "qa": 2, "qi": 2 }
+{ "nome": "FULIGNATI", "ruolo": "P", "squadra": "Palermo", "qa": 1, "qi": 1 }
+{ "nome": "GABRIEL", "ruolo": "P", "squadra": "Cagliari", "qa": 1, "qi": 1 }
+{ "nome": "GOLLINI", "ruolo": "P", "squadra": "Atalanta", "qa": 1, "qi": 1 }
+{ "nome": "GOMIS A", "ruolo": "P", "squadra": "Bologna", "qa": 2, "qi": 2 }
+{ "nome": "HANDANOVIC", "ruolo": "P", "squadra": "Inter", "qa": 20, "qi": 15 }
+{ "nome": "HART", "ruolo": "P", "squadra": "Torino", "qa": 15, "qi": 11 }
+{ "nome": "KARNEZIS", "ruolo": "P", "squadra": "Udinese", "qa": 16, "qi": 10 }
+{ "nome": "KRAPIKAS", "ruolo": "P", "squadra": "Sampdoria", "qa": 1, "qi": 1 }
+{ "nome": "LAMANNA", "ruolo": "P", "squadra": "Genoa", "qa": 3, "qi": 1 }
+{ "nome": "LEZZERINI", "ruolo": "P", "squadra": "Fiorentina", "qa": 3, "qi": 1 }
+{ "nome": "LOBONT", "ruolo": "P", "squadra": "Roma", "qa": 1, "qi": 1 }
+{ "nome": "MARCHETTI", "ruolo": "P", "squadra": "Lazio", "qa": 16, "qi": 11 }
+{ "nome": "MARSON", "ruolo": "P", "squadra": "Palermo", "qa": 1, "qi": 1 }
+{ "nome": "MAZZINI", "ruolo": "P", "squadra": "Atalanta", "qa": 1, "qi": 1 }
+{ "nome": "MIRANTE", "ruolo": "P", "squadra": "Bologna", "qa": 9, "qi": 11 }
+{ "nome": "NETO", "ruolo": "P", "squadra": "Juventus", "qa": 4, "qi": 1 }
+{ "nome": "PADELLI", "ruolo": "P", "squadra": "Torino", "qa": 4, "qi": 10 }
+{ "nome": "PEGOLO", "ruolo": "P", "squadra": "Sassuolo", "qa": 1, "qi": 1 }
+{ "nome": "PELAGOTTI", "ruolo": "P", "squadra": "Empoli", "qa": 1, "qi": 1 }
+{ "nome": "PERIN", "ruolo": "P", "squadra": "Genoa", "qa": 15, "qi": 12 }
+{ "nome": "PERISAN", "ruolo": "P", "squadra": "Udinese", "qa": 1, "qi": 1 }
+{ "nome": "PLIZZARI", "ruolo": "P", "squadra": "Milan", "qa": 1, "qi": 1 }
+{ "nome": "POMINI", "ruolo": "P", "squadra": "Sassuolo", "qa": 1, "qi": 1 }
+{ "nome": "POSAVEC", "ruolo": "P", "squadra": "Palermo", "qa": 8, "qi": 9 }
+{ "nome": "PUGGIONI", "ruolo": "P", "squadra": "Sampdoria", "qa": 11, "qi": 1 }
+{ "nome": "PUGLIESI", "ruolo": "P", "squadra": "Empoli", "qa": 1, "qi": 1 }
+{ "nome": "RADU I", "ruolo": "P", "squadra": "Inter", "qa": 1, "qi": 1 }
+{ "nome": "RAFAEL CABRAL", "ruolo": "P", "squadra": "Napoli", "qa": 1, "qi": 1 }
+{ "nome": "RAFAEL", "ruolo": "P", "squadra": "Cagliari", "qa": 5, "qi": 2 }
+{ "nome": "REINA", "ruolo": "P", "squadra": "Napoli", "qa": 16, "qi": 14 }
+{ "nome": "RUBINHO", "ruolo": "P", "squadra": "Genoa", "qa": 1, "qi": 1 }
+{ "nome": "SARR", "ruolo": "P", "squadra": "Bologna", "qa": 1, "qi": 1 }
+{ "nome": "SCUFFET", "ruolo": "P", "squadra": "Udinese", "qa": 1, "qi": 1 }
+{ "nome": "SECULIN", "ruolo": "P", "squadra": "Chievo", "qa": 1, "qi": 1 }
+{ "nome": "SEPE", "ruolo": "P", "squadra": "Napoli", "qa": 1, "qi": 1 }
+{ "nome": "SKORUPSKI", "ruolo": "P", "squadra": "Empoli", "qa": 17, "qi": 9 }
+{ "nome": "SORRENTINO", "ruolo": "P", "squadra": "Chievo", "qa": 16, "qi": 10 }
+{ "nome": "SPORTIELLO", "ruolo": "P", "squadra": "Fiorentina", "qa": 5, "qi": 12 }
+{ "nome": "STORARI", "ruolo": "P", "squadra": "Milan", "qa": 6, "qi": 9 }
+{ "nome": "STRAKOSHA", "ruolo": "P", "squadra": "Lazio", "qa": 4, "qi": 1 }
+{ "nome": "SZCZESNY", "ruolo": "P", "squadra": "Roma", "qa": 25, "qi": 14 }
+{ "nome": "TATARUSANU", "ruolo": "P", "squadra": "Fiorentina", "qa": 15, "qi": 12 }
+{ "nome": "TOZZO", "ruolo": "P", "squadra": "Sampdoria", "qa": 1, "qi": 1 }
+{ "nome": "VARGIC", "ruolo": "P", "squadra": "Lazio", "qa": 1, "qi": 1 }
+{ "nome": "VISCOVO", "ruolo": "P", "squadra": "Crotone", "qa": 1, "qi": 1 }
+{ "nome": "VIVIANO", "ruolo": "P", "squadra": "Sampdoria", "qa": 5, "qi": 11 }
+{ "nome": "ZIMA", "ruolo": "P", "squadra": "Genoa", "qa": 1, "qi": 1 }
+{ "nome": "ABATE", "ruolo": "D", "squadra": "Milan", "qa": 11, "qi": 10 }
+{ "nome": "ACERBI", "ruolo": "D", "squadra": "Sassuolo", "qa": 19, "qi": 14 }
+{ "nome": "ADJAPONG", "ruolo": "D", "squadra": "Sassuolo", "qa": 3, "qi": 1 }
+{ "nome": "ADNAN", "ruolo": "D", "squadra": "Udinese", "qa": 4, "qi": 5 }
+{ "nome": "AJETI", "ruolo": "D", "squadra": "Torino", "qa": 4, "qi": 5 }
+{ "nome": "ALBIOL", "ruolo": "D", "squadra": "Napoli", "qa": 7, "qi": 10 }
+{ "nome": "ALEESAMI", "ruolo": "D", "squadra": "Palermo", "qa": 8, "qi": 6 }
+{ "nome": "ALEX SANDRO", "ruolo": "D", "squadra": "Juventus", "qa": 16, "qi": 16 }
+{ "nome": "BRUNO ALVES", "ruolo": "D", "squadra": "Cagliari", "qa": 10, "qi": 7 }
+{ "nome": "DANI ALVES", "ruolo": "D", "squadra": "Juventus", "qa": 8, "qi": 17 }
+{ "nome": "AMUZIE", "ruolo": "D", "squadra": "Sampdoria", "qa": 2, "qi": 2 }
+{ "nome": "ANDELKOVIC", "ruolo": "D", "squadra": "Palermo", "qa": 5, "qi": 5 }
+{ "nome": "ANDREOLLI", "ruolo": "D", "squadra": "Inter", "qa": 3, "qi": 3 }
+{ "nome": "ANGELLA", "ruolo": "D", "squadra": "Udinese", "qa": 3, "qi": 4 }
+{ "nome": "ANIBAL", "ruolo": "D", "squadra": "Genoa", "qa": 1, "qi": 1 }
+{ "nome": "ANSALDI", "ruolo": "D", "squadra": "Inter", "qa": 7, "qi": 12 }
+{ "nome": "ANTEI", "ruolo": "D", "squadra": "Sassuolo", "qa": 4, "qi": 3 }
+{ "nome": "ANTONELLI", "ruolo": "D", "squadra": "Milan", "qa": 4, "qi": 11 }
+{ "nome": "ASTORI", "ruolo": "D", "squadra": "Fiorentina", "qa": 11, "qi": 9 }
+{ "nome": "AVELAR", "ruolo": "D", "squadra": "Torino", "qa": 4, "qi": 6 }
+{ "nome": "BARBA", "ruolo": "D", "squadra": "Empoli", "qa": 4, "qi": 4 }
+{ "nome": "BARRECA", "ruolo": "D", "squadra": "Torino", "qa": 6, "qi": 2 }
+{ "nome": "BARZAGLI", "ruolo": "D", "squadra": "Juventus", "qa": 11, "qi": 13 }
+{ "nome": "BASTA", "ruolo": "D", "squadra": "Lazio", "qa": 9, "qi": 8 }
+{ "nome": "BASTOS", "ruolo": "D", "squadra": "Lazio", "qa": 4, "qi": 6 }
+{ "nome": "BEGHETTO", "ruolo": "D", "squadra": "Genoa", "qa": 6, "qi": 6 }
+{ "nome": "BELLUSCI", "ruolo": "D", "squadra": "Empoli", "qa": 8, "qi": 5 }
+{ "nome": "BENATIA", "ruolo": "D", "squadra": "Juventus", "qa": 6, "qi": 10 }
+{ "nome": "BERESZYNSKI", "ruolo": "D", "squadra": "Sampdoria", "qa": 5, "qi": 5 }
+{ "nome": "BIRAGHI", "ruolo": "D", "squadra": "Pescara", "qa": 8, "qi": 5 }
+{ "nome": "BIRASCHI", "ruolo": "D", "squadra": "Genoa", "qa": 4, "qi": 4 }
+{ "nome": "BITTANTE", "ruolo": "D", "squadra": "Cagliari", "qa": 3, "qi": 3 }
+{ "nome": "BONUCCI", "ruolo": "D", "squadra": "Juventus", "qa": 13, "qi": 15 }
+{ "nome": "BOVO", "ruolo": "D", "squadra": "Pescara", "qa": 4, "qi": 5 }
+{ "nome": "BRIVIO", "ruolo": "D", "squadra": "Genoa", "qa": 4, "qi": 4 }
+{ "nome": "BURDISSO", "ruolo": "D", "squadra": "Genoa", "qa": 10, "qi": 6 }
+{ "nome": "CACCIATORE", "ruolo": "D", "squadra": "Chievo", "qa": 7, "qi": 7 }
+{ "nome": "CALABRIA", "ruolo": "D", "squadra": "Milan", "qa": 3, "qi": 2 }
+{ "nome": "CALDARA", "ruolo": "D", "squadra": "Atalanta", "qa": 10, "qi": 4 }
+{ "nome": "CAMPAGNARO", "ruolo": "D", "squadra": "Pescara", "qa": 7, "qi": 6 }
+{ "nome": "CANNAVARO", "ruolo": "D", "squadra": "Sassuolo", "qa": 5, "qi": 8 }
+{ "nome": "CAPUANO", "ruolo": "D", "squadra": "Cagliari", "qa": 3, "qi": 4 }
+{ "nome": "CARLAO", "ruolo": "D", "squadra": "Torino", "qa": 6, "qi": 6 }
+{ "nome": "CASTAN", "ruolo": "D", "squadra": "Torino", "qa": 7, "qi": 6 }
+{ "nome": "CECCHERINI", "ruolo": "D", "squadra": "Crotone", "qa": 6, "qi": 4 }
+{ "nome": "CEPPITELLI", "ruolo": "D", "squadra": "Cagliari", "qa": 4, "qi": 4 }
+{ "nome": "CESAR", "ruolo": "D", "squadra": "Chievo", "qa": 4, "qi": 6 }
+{ "nome": "CHIELLINI", "ruolo": "D", "squadra": "Juventus", "qa": 13, "qi": 12 }
+{ "nome": "CHIRICHES", "ruolo": "D", "squadra": "Napoli", "qa": 8, "qi": 5 }
+{ "nome": "CIONEK", "ruolo": "D", "squadra": "Palermo", "qa": 4, "qi": 4 }
+{ "nome": "CISSOKHO", "ruolo": "D", "squadra": "Genoa", "qa": 4, "qi": 4 }
+{ "nome": "CODA", "ruolo": "D", "squadra": "Pescara", "qa": 2, "qi": 3 }
+{ "nome": "CONTI", "ruolo": "D", "squadra": "Atalanta", "qa": 11, "qi": 5 }
+{ "nome": "COSIC", "ruolo": "D", "squadra": "Empoli", "qa": 4, "qi": 2 }
+{ "nome": "COSTA", "ruolo": "D", "squadra": "Empoli", "qa": 8, "qi": 6 }
+{ "nome": "CRESCENZI", "ruolo": "D", "squadra": "Pescara", "qa": 5, "qi": 4 }
+{ "nome": "CUOMO", "ruolo": "D", "squadra": "Crotone", "qa": 1, "qi": 1 }
+{ "nome": "DAINELLI", "ruolo": "D", "squadra": "Chievo", "qa": 8, "qi": 5 }
+{ "nome": "D'AMBROSIO", "ruolo": "D", "squadra": "Inter", "qa": 6, "qi": 6 }
+{ "nome": "DANILO", "ruolo": "D", "squadra": "Udinese", "qa": 11, "qi": 7 }
+{ "nome": "DE MAIO", "ruolo": "D", "squadra": "Fiorentina", "qa": 4, "qi": 5 }
+{ "nome": "DE SCIGLIO", "ruolo": "D", "squadra": "Milan", "qa": 8, "qi": 6 }
+{ "nome": "DE SILVESTRI", "ruolo": "D", "squadra": "Torino", "qa": 4, "qi": 10 }
+{ "nome": "DE VRIJ", "ruolo": "D", "squadra": "Lazio", "qa": 9, "qi": 10 }
+{ "nome": "DELL'ORCO", "ruolo": "D", "squadra": "Sassuolo", "qa": 2, "qi": 2 }
+{ "nome": "DIKS", "ruolo": "D", "squadra": "Fiorentina", "qa": 4, "qi": 4 }
+{ "nome": "DIMARCO", "ruolo": "D", "squadra": "Empoli", "qa": 4, "qi": 4 }
+{ "nome": "DODO'", "ruolo": "D", "squadra": "Sampdoria", "qa": 3, "qi": 4 }
+{ "nome": "CLAITON", "ruolo": "D", "squadra": "Crotone", "qa": 4, "qi": 5 }
+{ "nome": "DRAME'", "ruolo": "D", "squadra": "Atalanta", "qa": 4, "qi": 5 }
+{ "nome": "DUSSENNE", "ruolo": "D", "squadra": "Crotone", "qa": 4, "qi": 6 }
+{ "nome": "EDENILSON", "ruolo": "D", "squadra": "Genoa", "qa": 8, "qi": 5 }
+{ "nome": "RODRIGO ELY", "ruolo": "D", "squadra": "Milan", "qa": 2, "qi": 2 }
+{ "nome": "EMERSON", "ruolo": "D", "squadra": "Roma", "qa": 6, "qi": 3 }
+{ "nome": "EVRA", "ruolo": "D", "squadra": "Juventus", "qa": 5, "qi": 10 }
+{ "nome": "FARAONI", "ruolo": "D", "squadra": "Udinese", "qa": 3, "qi": 3 }
+{ "nome": "FAZIO", "ruolo": "D", "squadra": "Roma", "qa": 11, "qi": 7 }
+{ "nome": "FELIPE", "ruolo": "D", "squadra": "Udinese", "qa": 8, "qi": 6 }
+{ "nome": "FERRARI A", "ruolo": "D", "squadra": "Bologna", "qa": 4, "qi": 4 }
+{ "nome": "FERRARI G", "ruolo": "D", "squadra": "Crotone", "qa": 8, "qi": 4 }
+{ "nome": "FLORENZI", "ruolo": "D", "squadra": "Roma", "qa": 8, "qi": 17 }
+{ "nome": "FORNASIER", "ruolo": "D", "squadra": "Pescara", "qa": 5, "qi": 4 }
+{ "nome": "FREY", "ruolo": "D", "squadra": "Chievo", "qa": 5, "qi": 5 }
+{ "nome": "GAMBERINI", "ruolo": "D", "squadra": "Chievo", "qa": 8, "qi": 5 }
+{ "nome": "GASTALDELLO", "ruolo": "D", "squadra": "Bologna", "qa": 5, "qi": 8 }
+{ "nome": "GAZZOLA", "ruolo": "D", "squadra": "Sassuolo", "qa": 4, "qi": 4 }
+{ "nome": "GENTILETTI", "ruolo": "D", "squadra": "Genoa", "qa": 4, "qi": 6 }
+{ "nome": "GHOULAM", "ruolo": "D", "squadra": "Napoli", "qa": 10, "qi": 9 }
+{ "nome": "GIULIANO", "ruolo": "D", "squadra": "Palermo", "qa": 1, "qi": 1 }
+{ "nome": "GOBBI", "ruolo": "D", "squadra": "Chievo", "qa": 8, "qi": 5 }
+{ "nome": "GOLDANIGA", "ruolo": "D", "squadra": "Palermo", "qa": 4, "qi": 5 }
+{ "nome": "GOMEZ G", "ruolo": "D", "squadra": "Milan", "qa": 4, "qi": 6 }
+{ "nome": "GONZALEZ G", "ruolo": "D", "squadra": "Palermo", "qa": 3, "qi": 7 }
+{ "nome": "GRANATA", "ruolo": "D", "squadra": "Napoli", "qa": 1, "qi": 1 }
+{ "nome": "GYOMBER", "ruolo": "D", "squadra": "Pescara", "qa": 3, "qi": 3 }
+{ "nome": "HELANDER", "ruolo": "D", "squadra": "Bologna", "qa": 4, "qi": 5 }
+{ "nome": "HEURTAUX", "ruolo": "D", "squadra": "Udinese", "qa": 4, "qi": 5 }
+{ "nome": "HOEDT", "ruolo": "D", "squadra": "Lazio", "qa": 4, "qi": 5 }
+{ "nome": "HYSAJ", "ruolo": "D", "squadra": "Napoli", "qa": 8, "qi": 8 }
+{ "nome": "IERARDI", "ruolo": "D", "squadra": "Genoa", "qa": 1, "qi": 1 }
+{ "nome": "ISLA", "ruolo": "D", "squadra": "Cagliari", "qa": 8, "qi": 9 }
+{ "nome": "IZZO", "ruolo": "D", "squadra": "Genoa", "qa": 9, "qi": 8 }
+{ "nome": "JUAN JESUS", "ruolo": "D", "squadra": "Roma", "qa": 4, "qi": 6 }
+{ "nome": "KONKO", "ruolo": "D", "squadra": "Atalanta", "qa": 5, "qi": 4 }
+{ "nome": "KOULIBALY", "ruolo": "D", "squadra": "Napoli", "qa": 12, "qi": 12 }
+{ "nome": "KRAFTH", "ruolo": "D", "squadra": "Bologna", "qa": 4, "qi": 3 }
+{ "nome": "LASICKI", "ruolo": "D", "squadra": "Napoli", "qa": 1, "qi": 1 }
+{ "nome": "LAURINI", "ruolo": "D", "squadra": "Empoli", "qa": 5, "qi": 5 }
+{ "nome": "LETSCHERT", "ruolo": "D", "squadra": "Sassuolo", "qa": 4, "qi": 5 }
+{ "nome": "LICHTSTEINER", "ruolo": "D", "squadra": "Juventus", "qa": 8, "qi": 8 }
+{ "nome": "LIROLA", "ruolo": "D", "squadra": "Sassuolo", "qa": 5, "qi": 3 }
+{ "nome": "LUKAKU", "ruolo": "D", "squadra": "Lazio", "qa": 4, "qi": 6 }
+{ "nome": "MAGGIO", "ruolo": "D", "squadra": "Napoli", "qa": 4, "qi": 3 }
+{ "nome": "MAIETTA", "ruolo": "D", "squadra": "Bologna", "qa": 6, "qi": 5 }
+{ "nome": "MAKSIMOVIC", "ruolo": "D", "squadra": "Napoli", "qa": 3, "qi": 6 }
+{ "nome": "MALOKU", "ruolo": "D", "squadra": "Pescara", "qa": 1, "qi": 1 }
+{ "nome": "MANOLAS", "ruolo": "D", "squadra": "Roma", "qa": 15, "qi": 14 }
+{ "nome": "MARCHIZZA", "ruolo": "D", "squadra": "Roma", "qa": 1, "qi": 1 }
+{ "nome": "MARIO RUI", "ruolo": "D", "squadra": "Roma", "qa": 4, "qi": 9 }
+{ "nome": "MARTELLA", "ruolo": "D", "squadra": "Crotone", "qa": 6, "qi": 7 }
+{ "nome": "MASIELLO A", "ruolo": "D", "squadra": "Atalanta", "qa": 13, "qi": 6 }
+{ "nome": "MASINA", "ruolo": "D", "squadra": "Bologna", "qa": 8, "qi": 7 }
+{ "nome": "MATTIELLO", "ruolo": "D", "squadra": "Juventus", "qa": 2, "qi": 2 }
+{ "nome": "MBAYE", "ruolo": "D", "squadra": "Bologna", "qa": 3, "qi": 4 }
+{ "nome": "MESBAH", "ruolo": "D", "squadra": "Crotone", "qa": 4, "qi": 3 }
+{ "nome": "MIANGUE", "ruolo": "D", "squadra": "Inter", "qa": 2, "qi": 1 }
+{ "nome": "MILIC", "ruolo": "D", "squadra": "Fiorentina", "qa": 4, "qi": 4 }
+{ "nome": "MIRANDA", "ruolo": "D", "squadra": "Inter", "qa": 14, "qi": 14 }
+{ "nome": "MOLINARO", "ruolo": "D", "squadra": "Torino", "qa": 4, "qi": 4 }
+{ "nome": "MORETTI", "ruolo": "D", "squadra": "Torino", "qa": 4, "qi": 7 }
+{ "nome": "MORGANELLA", "ruolo": "D", "squadra": "Palermo", "qa": 3, "qi": 5 }
+{ "nome": "MUNOZ", "ruolo": "D", "squadra": "Genoa", "qa": 7, "qi": 5 }
+{ "nome": "MURILLO", "ruolo": "D", "squadra": "Inter", "qa": 11, "qi": 11 }
+{ "nome": "MURRU", "ruolo": "D", "squadra": "Cagliari", "qa": 4, "qi": 4 }
+{ "nome": "NAGATOMO", "ruolo": "D", "squadra": "Inter", "qa": 4, "qi": 5 }
+{ "nome": "NURA", "ruolo": "D", "squadra": "Roma", "qa": 1, "qi": 1 }
+{ "nome": "OIKONOMOU", "ruolo": "D", "squadra": "Bologna", "qa": 4, "qi": 5 }
+{ "nome": "OLIVERA M", "ruolo": "D", "squadra": "Fiorentina", "qa": 4, "qi": 7 }
+{ "nome": "ORBAN", "ruolo": "D", "squadra": "Genoa", "qa": 4, "qi": 4 }
+{ "nome": "PALETTA", "ruolo": "D", "squadra": "Milan", "qa": 10, "qi": 5 }
+{ "nome": "PASQUAL", "ruolo": "D", "squadra": "Empoli", "qa": 10, "qi": 9 }
+{ "nome": "PATRIC", "ruolo": "D", "squadra": "Lazio", "qa": 4, "qi": 3 }
+{ "nome": "PAVLOVIC", "ruolo": "D", "squadra": "Sampdoria", "qa": 4, "qi": 6 }
+{ "nome": "PELUSO", "ruolo": "D", "squadra": "Sassuolo", "qa": 6, "qi": 6 }
+{ "nome": "PEREIRA P", "ruolo": "D", "squadra": "Sampdoria", "qa": 4, "qi": 3 }
+{ "nome": "BRUNO PERES", "ruolo": "D", "squadra": "Roma", "qa": 11, "qi": 15 }
+{ "nome": "PEZZELLA", "ruolo": "D", "squadra": "Palermo", "qa": 2, "qi": 2 }
+{ "nome": "PISACANE", "ruolo": "D", "squadra": "Cagliari", "qa": 5, "qi": 3 }
+{ "nome": "PUNZI", "ruolo": "D", "squadra": "Palermo", "qa": 1, "qi": 1 }
+{ "nome": "RADU", "ruolo": "D", "squadra": "Lazio", "qa": 11, "qi": 6 }
+{ "nome": "RAIMONDI", "ruolo": "D", "squadra": "Atalanta", "qa": 3, "qi": 3 }
+{ "nome": "RAJKOVIC", "ruolo": "D", "squadra": "Palermo", "qa": 4, "qi": 5 }
+{ "nome": "RANOCCHIA", "ruolo": "D", "squadra": "Inter", "qa": 3, "qi": 6 }
+{ "nome": "REGINI", "ruolo": "D", "squadra": "Sampdoria", "qa": 7, "qi": 4 }
+{ "nome": "RISPOLI", "ruolo": "D", "squadra": "Palermo", "qa": 11, "qi": 5 }
+{ "nome": "RODRIGUEZ GO", "ruolo": "D", "squadra": "Fiorentina", "qa": 11, "qi": 15 }
+{ "nome": "ROMAGNOLI A", "ruolo": "D", "squadra": "Milan", "qa": 10, "qi": 9 }
+{ "nome": "ROSI", "ruolo": "D", "squadra": "Crotone", "qa": 7, "qi": 3 }
+{ "nome": "ROSSETTINI", "ruolo": "D", "squadra": "Torino", "qa": 8, "qi": 6 }
+{ "nome": "RUDIGER", "ruolo": "D", "squadra": "Roma", "qa": 6, "qi": 10 }
+{ "nome": "RUGANI", "ruolo": "D", "squadra": "Juventus", "qa": 7, "qi": 7 }
+{ "nome": "SALAMON", "ruolo": "D", "squadra": "Cagliari", "qa": 4, "qi": 5 }
+{ "nome": "SALCEDO", "ruolo": "D", "squadra": "Fiorentina", "qa": 6, "qi": 6 }
+{ "nome": "SAMIR", "ruolo": "D", "squadra": "Udinese", "qa": 7, "qi": 3 }
+{ "nome": "SAMPIRISI", "ruolo": "D", "squadra": "Crotone", "qa": 4, "qi": 3 }
+{ "nome": "SANTON", "ruolo": "D", "squadra": "Inter", "qa": 3, "qi": 3 }
+{ "nome": "SARDO", "ruolo": "D", "squadra": "Chievo", "qa": 3, "qi": 3 }
+{ "nome": "SECK", "ruolo": "D", "squadra": "Roma", "qa": 1, "qi": 1 }
+{ "nome": "SILVESTRE", "ruolo": "D", "squadra": "Sampdoria", "qa": 10, "qi": 5 }
+{ "nome": "SKRINIAR", "ruolo": "D", "squadra": "Sampdoria", "qa": 6, "qi": 3 }
+{ "nome": "SPOLLI", "ruolo": "D", "squadra": "Chievo", "qa": 3, "qi": 4 }
+{ "nome": "STENDARDO", "ruolo": "D", "squadra": "Pescara", "qa": 4, "qi": 5 }
+{ "nome": "STRINIC", "ruolo": "D", "squadra": "Napoli", "qa": 4, "qi": 4 }
+{ "nome": "SUAGHER", "ruolo": "D", "squadra": "Atalanta", "qa": 4, "qi": 4 }
+{ "nome": "TERRANOVA", "ruolo": "D", "squadra": "Sassuolo", "qa": 3, "qi": 3 }
+{ "nome": "TOLOI", "ruolo": "D", "squadra": "Atalanta", "qa": 7, "qi": 6 }
+{ "nome": "TOMOVIC", "ruolo": "D", "squadra": "Fiorentina", "qa": 4, "qi": 6 }
+{ "nome": "TONELLI", "ruolo": "D", "squadra": "Napoli", "qa": 8, "qi": 8 }
+{ "nome": "TOROSIDIS", "ruolo": "D", "squadra": "Bologna", "qa": 4, "qi": 4 }
+{ "nome": "TROIANI", "ruolo": "D", "squadra": "Chievo", "qa": 1, "qi": 1 }
+{ "nome": "VANGIONI", "ruolo": "D", "squadra": "Milan", "qa": 4, "qi": 5 }
+{ "nome": "VERMAELEN", "ruolo": "D", "squadra": "Roma", "qa": 3, "qi": 9 }
+{ "nome": "VESELI", "ruolo": "D", "squadra": "Empoli", "qa": 4, "qi": 5 }
+{ "nome": "VINICIUS", "ruolo": "D", "squadra": "Lazio", "qa": 2, "qi": 2 }
+{ "nome": "VITIELLO", "ruolo": "D", "squadra": "Palermo", "qa": 3, "qi": 3 }
+{ "nome": "VITTURINI", "ruolo": "D", "squadra": "Pescara", "qa": 2, "qi": 2 }
+{ "nome": "WAGUE", "ruolo": "D", "squadra": "Udinese", "qa": 4, "qi": 4 }
+{ "nome": "WALLACE", "ruolo": "D", "squadra": "Lazio", "qa": 7, "qi": 7 }
+{ "nome": "WIDMER", "ruolo": "D", "squadra": "Udinese", "qa": 9, "qi": 9 }
+{ "nome": "YAO", "ruolo": "D", "squadra": "Inter", "qa": 4, "qi": 4 }
+{ "nome": "ZAMBELLI", "ruolo": "D", "squadra": "Empoli", "qa": 4, "qi": 3 }
+{ "nome": "ZAMPANO F", "ruolo": "D", "squadra": "Pescara", "qa": 8, "qi": 5 }
+{ "nome": "ZAPATA C", "ruolo": "D", "squadra": "Milan", "qa": 4, "qi": 6 }
+{ "nome": "ZAPPACOSTA", "ruolo": "D", "squadra": "Torino", "qa": 10, "qi": 6 }
+{ "nome": "ZUKANOVIC", "ruolo": "D", "squadra": "Atalanta", "qa": 9, "qi": 8 }
+{ "nome": "ZUPARIC", "ruolo": "D", "squadra": "Pescara", "qa": 4, "qi": 3 }
+{ "nome": "ACQUAH", "ruolo": "C", "squadra": "Torino", "qa": 4, "qi": 8 }
+{ "nome": "ALLAN", "ruolo": "C", "squadra": "Napoli", "qa": 14, "qi": 15 }
+{ "nome": "ALVAREZ R", "ruolo": "T", "squadra": "Sampdoria", "qa": 7, "qi": 10 }
+{ "nome": "AQUILANI", "ruolo": "C", "squadra": "Sassuolo", "qa": 9, "qi": 10 }
+{ "nome": "ARAMU", "ruolo": "T", "squadra": "Torino", "qa": 4, "qi": 5 }
+{ "nome": "ASAMOAH", "ruolo": "C", "squadra": "Juventus", "qa": 4, "qi": 7 }
+{ "nome": "BADELJ", "ruolo": "C", "squadra": "Fiorentina", "qa": 13, "qi": 8 }
+{ "nome": "BADU", "ruolo": "C", "squadra": "Udinese", "qa": 10, "qi": 11 }
+{ "nome": "BALIC", "ruolo": "T", "squadra": "Udinese", "qa": 2, "qi": 2 }
+{ "nome": "BANEGA", "ruolo": "T", "squadra": "Inter", "qa": 15, "qi": 16 }
+{ "nome": "BARBERIS", "ruolo": "C", "squadra": "Crotone", "qa": 5, "qi": 5 }
+{ "nome": "BARELLA", "ruolo": "C", "squadra": "Cagliari", "qa": 6, "qi": 2 }
+{ "nome": "BARRETO E", "ruolo": "C", "squadra": "Sampdoria", "qa": 11, "qi": 6 }
+{ "nome": "BASELLI", "ruolo": "C", "squadra": "Torino", "qa": 15, "qi": 12 }
+{ "nome": "BASTIEN", "ruolo": "C", "squadra": "Chievo", "qa": 4, "qi": 4 }
+{ "nome": "BENALI", "ruolo": "T", "squadra": "Pescara", "qa": 10, "qi": 8 }
+{ "nome": "BENASSI", "ruolo": "C", "squadra": "Torino", "qa": 17, "qi": 10 }
+{ "nome": "BERNARDESCHI", "ruolo": "T", "squadra": "Fiorentina", "qa": 29, "qi": 14 }
+{ "nome": "BERTOLACCI", "ruolo": "C", "squadra": "Milan", "qa": 7, "qi": 8 }
+{ "nome": "BIABIANY", "ruolo": "T", "squadra": "Inter", "qa": 4, "qi": 8 }
+{ "nome": "BIGLIA", "ruolo": "C", "squadra": "Lazio", "qa": 11, "qi": 15 }
+{ "nome": "BIONDINI", "ruolo": "C", "squadra": "Sassuolo", "qa": 4, "qi": 4 }
+{ "nome": "BIRSA", "ruolo": "T", "squadra": "Chievo", "qa": 17, "qi": 13 }
+{ "nome": "BONAVENTURA", "ruolo": "T", "squadra": "Milan", "qa": 18, "qi": 17 }
+{ "nome": "BORJA VALERO", "ruolo": "C", "squadra": "Fiorentina", "qa": 15, "qi": 17 }
+{ "nome": "BOUY", "ruolo": "C", "squadra": "Palermo", "qa": 4, "qi": 5 }
+{ "nome": "BROZOVIC", "ruolo": "C", "squadra": "Inter", "qa": 14, "qi": 15 }
+{ "nome": "BRUGMAN", "ruolo": "C", "squadra": "Pescara", "qa": 7, "qi": 5 }
+{ "nome": "BRUNO", "ruolo": "C", "squadra": "Pescara", "qa": 2, "qi": 2 }
+{ "nome": "BUCHEL", "ruolo": "C", "squadra": "Empoli", "qa": 4, "qi": 9 }
+{ "nome": "CABEZAS", "ruolo": "T", "squadra": "Atalanta", "qa": 4, "qi": 8 }
+{ "nome": "CANDREVA", "ruolo": "T", "squadra": "Inter", "qa": 22, "qi": 20 }
+{ "nome": "CAPEZZI", "ruolo": "C", "squadra": "Crotone", "qa": 6, "qi": 6 }
+{ "nome": "CARBONERO", "ruolo": "T", "squadra": "Sampdoria", "qa": 3, "qi": 7 }
+{ "nome": "CARMONA", "ruolo": "C", "squadra": "Atalanta", "qa": 4, "qi": 5 }
+{ "nome": "CASTRO", "ruolo": "C", "squadra": "Chievo", "qa": 14, "qi": 11 }
+{ "nome": "CATALDI", "ruolo": "C", "squadra": "Genoa", "qa": 7, "qi": 6 }
+{ "nome": "CHOCHEV", "ruolo": "C", "squadra": "Palermo", "qa": 6, "qi": 5 }
+{ "nome": "CIGARINI", "ruolo": "C", "squadra": "Sampdoria", "qa": 4, "qi": 10 }
+{ "nome": "COFIE", "ruolo": "C", "squadra": "Genoa", "qa": 4, "qi": 4 }
+{ "nome": "COLOMBATTO", "ruolo": "C", "squadra": "Cagliari", "qa": 2, "qi": 2 }
+{ "nome": "CRISETIG", "ruolo": "C", "squadra": "Crotone", "qa": 4, "qi": 3 }
+{ "nome": "CRISTANTE", "ruolo": "C", "squadra": "Pescara", "qa": 5, "qi": 4 }
+{ "nome": "CRISTOFORO", "ruolo": "C", "squadra": "Fiorentina", "qa": 5, "qi": 5 }
+{ "nome": "CROCE", "ruolo": "C", "squadra": "Empoli", "qa": 12, "qi": 8 }
+{ "nome": "CUADRADO", "ruolo": "T", "squadra": "Juventus", "qa": 15, "qi": 15 }
+{ "nome": "CUBAS", "ruolo": "C", "squadra": "Pescara", "qa": 5, "qi": 5 }
+{ "nome": "D'ALESSANDRO", "ruolo": "T", "squadra": "Atalanta", "qa": 10, "qi": 9 }
+{ "nome": "DE GUZMAN", "ruolo": "T", "squadra": "Chievo", "qa": 7, "qi": 4 }
+{ "nome": "DE PAUL", "ruolo": "T", "squadra": "Udinese", "qa": 6, "qi": 6 }
+{ "nome": "DE ROSSI", "ruolo": "C", "squadra": "Roma", "qa": 10, "qi": 10 }
+{ "nome": "DEPAOLI", "ruolo": "C", "squadra": "Chievo", "qa": 1, "qi": 1 }
+{ "nome": "DESSENA", "ruolo": "C", "squadra": "Cagliari", "qa": 5, "qi": 4 }
+{ "nome": "DI FRANCESCO F", "ruolo": "T", "squadra": "Bologna", "qa": 6, "qi": 8 }
+{ "nome": "DI GENNARO D", "ruolo": "C", "squadra": "Cagliari", "qa": 11, "qi": 7 }
+{ "nome": "DIAKHATE", "ruolo": "C", "squadra": "Fiorentina", "qa": 1, "qi": 1 }
+{ "nome": "DIAMANTI", "ruolo": "T", "squadra": "Palermo", "qa": 12, "qi": 13 }
+{ "nome": "DIAWARA", "ruolo": "C", "squadra": "Napoli", "qa": 6, "qi": 8 }
+{ "nome": "DIOUSSE'", "ruolo": "C", "squadra": "Empoli", "qa": 8, "qi": 5 }
+{ "nome": "DONSAH", "ruolo": "C", "squadra": "Bologna", "qa": 4, "qi": 10 }
+{ "nome": "DUNCAN", "ruolo": "C", "squadra": "Sassuolo", "qa": 4, "qi": 11 }
+{ "nome": "DZEMAILI", "ruolo": "C", "squadra": "Bologna", "qa": 15, "qi": 11 }
+{ "nome": "EL KADDOURI", "ruolo": "T", "squadra": "Napoli", "qa": 3, "qi": 7 }
+{ "nome": "EMBALO", "ruolo": "T", "squadra": "Palermo", "qa": 3, "qi": 9 }
+{ "nome": "LUCAS EVANGELISTA", "ruolo": "T", "squadra": "Udinese", "qa": 2, "qi": 2 }
+{ "nome": "FELIPE ANDERSON", "ruolo": "T", "squadra": "Lazio", "qa": 21, "qi": 18 }
+{ "nome": "BRUNO FERNANDES", "ruolo": "C", "squadra": "Sampdoria", "qa": 15, "qi": 12 }
+{ "nome": "FERNANDEZ M", "ruolo": "T", "squadra": "Milan", "qa": 4, "qi": 8 }
+{ "nome": "FOFANA", "ruolo": "C", "squadra": "Udinese", "qa": 14, "qi": 5 }
+{ "nome": "FREULER", "ruolo": "C", "squadra": "Atalanta", "qa": 13, "qi": 4 }
+{ "nome": "GAGLIARDINI", "ruolo": "C", "squadra": "Inter", "qa": 9, "qi": 3 }
+{ "nome": "GAKPE'", "ruolo": "T", "squadra": "Genoa", "qa": 4, "qi": 7 }
+{ "nome": "GAZZI", "ruolo": "C", "squadra": "Palermo", "qa": 6, "qi": 4 }
+{ "nome": "GIACCHERINI", "ruolo": "T", "squadra": "Napoli", "qa": 6, "qi": 13 }
+{ "nome": "GNAHORE'", "ruolo": "C", "squadra": "Crotone", "qa": 2, "qi": 2 }
+{ "nome": "GNOUKOURI", "ruolo": "C", "squadra": "Inter", "qa": 4, "qi": 3 }
+{ "nome": "GOMEZ A", "ruolo": "T", "squadra": "Atalanta", "qa": 28, "qi": 19 }
+{ "nome": "GRASSI", "ruolo": "C", "squadra": "Atalanta", "qa": 4, "qi": 5 }
+{ "nome": "GUSTAFSON", "ruolo": "C", "squadra": "Torino", "qa": 4, "qi": 7 }
+{ "nome": "HALLFREDSSON", "ruolo": "C", "squadra": "Udinese", "qa": 6, "qi": 6 }
+{ "nome": "HAMSIK", "ruolo": "C", "squadra": "Napoli", "qa": 25, "qi": 19 }
+{ "nome": "BRUNO HENRIQUE", "ruolo": "C", "squadra": "Palermo", "qa": 9, "qi": 8 }
+{ "nome": "HERNANES", "ruolo": "C", "squadra": "Juventus", "qa": 7, "qi": 8 }
+{ "nome": "HETEMAJ", "ruolo": "C", "squadra": "Chievo", "qa": 6, "qi": 7 }
+{ "nome": "HILJEMARK", "ruolo": "C", "squadra": "Palermo", "qa": 8, "qi": 9 }
+{ "nome": "HONDA", "ruolo": "T", "squadra": "Milan", "qa": 4, "qi": 9 }
+{ "nome": "IAGO FALQUE", "ruolo": "T", "squadra": "Torino", "qa": 24, "qi": 13 }
+{ "nome": "IONITA", "ruolo": "C", "squadra": "Cagliari", "qa": 3, "qi": 12 }
+{ "nome": "IZCO", "ruolo": "C", "squadra": "Chievo", "qa": 5, "qi": 4 }
+{ "nome": "JAJALO", "ruolo": "C", "squadra": "Palermo", "qa": 7, "qi": 4 }
+{ "nome": "JALLOW", "ruolo": "T", "squadra": "Chievo", "qa": 1, "qi": 1 }
+{ "nome": "JANKTO", "ruolo": "C", "squadra": "Udinese", "qa": 9, "qi": 6 }
+{ "nome": "JOAO MARIO", "ruolo": "T", "squadra": "Inter", "qa": 16, "qi": 15 }
+{ "nome": "JOAO PEDRO", "ruolo": "T", "squadra": "Cagliari", "qa": 6, "qi": 13 }
+{ "nome": "JORGINHO", "ruolo": "C", "squadra": "Napoli", "qa": 10, "qi": 12 }
+{ "nome": "KESSIE'", "ruolo": "C", "squadra": "Atalanta", "qa": 16, "qi": 6 }
+{ "nome": "KHEDIRA", "ruolo": "C", "squadra": "Juventus", "qa": 18, "qi": 14 }
+{ "nome": "KONDOGBIA", "ruolo": "C", "squadra": "Inter", "qa": 8, "qi": 11 }
+{ "nome": "KONE", "ruolo": "C", "squadra": "Udinese", "qa": 4, "qi": 5 }
+{ "nome": "KREJCI", "ruolo": "T", "squadra": "Bologna", "qa": 14, "qi": 12 }
+{ "nome": "KRUNIC", "ruolo": "T", "squadra": "Empoli", "qa": 6, "qi": 5 }
+{ "nome": "KUCKA", "ruolo": "C", "squadra": "Milan", "qa": 9, "qi": 10 }
+{ "nome": "KUMS", "ruolo": "C", "squadra": "Udinese", "qa": 11, "qi": 10 }
+{ "nome": "KURTIC", "ruolo": "C", "squadra": "Atalanta", "qa": 17, "qi": 8 }
+{ "nome": "LAXALT", "ruolo": "C", "squadra": "Genoa", "qa": 13, "qi": 11 }
+{ "nome": "LAZOVIC", "ruolo": "T", "squadra": "Genoa", "qa": 9, "qi": 6 }
+{ "nome": "LEANDRINHO", "ruolo": "T", "squadra": "Napoli", "qa": 3, "qi": 3 }
+{ "nome": "LEITNER", "ruolo": "C", "squadra": "Lazio", "qa": 4, "qi": 5 }
+{ "nome": "LEMINA", "ruolo": "C", "squadra": "Juventus", "qa": 6, "qi": 6 }
+{ "nome": "LINETTY", "ruolo": "C", "squadra": "Sampdoria", "qa": 10, "qi": 7 }
+{ "nome": "LJAJIC", "ruolo": "T", "squadra": "Torino", "qa": 18, "qi": 15 }
+{ "nome": "LOCATELLI M", "ruolo": "C", "squadra": "Milan", "qa": 7, "qi": 2 }
+{ "nome": "LODI", "ruolo": "C", "squadra": "Udinese", "qa": 3, "qi": 7 }
+{ "nome": "LUKIC", "ruolo": "C", "squadra": "Torino", "qa": 4, "qi": 4 }
+{ "nome": "LULIC", "ruolo": "C", "squadra": "Lazio", "qa": 15, "qi": 10 }
+{ "nome": "MAGNANELLI", "ruolo": "C", "squadra": "Sassuolo", "qa": 7, "qi": 9 }
+{ "nome": "MAIELLO", "ruolo": "C", "squadra": "Empoli", "qa": 3, "qi": 3 }
+{ "nome": "MANDRAGORA", "ruolo": "C", "squadra": "Juventus", "qa": 3, "qi": 3 }
+{ "nome": "MARCHISIO", "ruolo": "C", "squadra": "Juventus", "qa": 8, "qi": 13 }
+{ "nome": "MATHEUS PEREIRA", "ruolo": "T", "squadra": "Empoli", "qa": 2, "qi": 2 }
+{ "nome": "MAURI J", "ruolo": "C", "squadra": "Empoli", "qa": 4, "qi": 3 }
+{ "nome": "MAZZITELLI", "ruolo": "C", "squadra": "Sassuolo", "qa": 7, "qi": 5 }
+{ "nome": "MEDEL", "ruolo": "C", "squadra": "Inter", "qa": 5, "qi": 9 }
+{ "nome": "MEMUSHAJ", "ruolo": "C", "squadra": "Pescara", "qa": 10, "qi": 10 }
+{ "nome": "MERTENS", "ruolo": "T", "squadra": "Napoli", "qa": 31, "qi": 15 }
+{ "nome": "MIGLIACCIO", "ruolo": "C", "squadra": "Atalanta", "qa": 3, "qi": 3 }
+{ "nome": "MILINKOVIC-SAVIC", "ruolo": "C", "squadra": "Lazio", "qa": 17, "qi": 8 }
+{ "nome": "MINALA", "ruolo": "C", "squadra": "Lazio", "qa": 3, "qi": 3 }
+{ "nome": "MISSIROLI", "ruolo": "C", "squadra": "Sassuolo", "qa": 3, "qi": 12 }
+{ "nome": "MITRITA", "ruolo": "T", "squadra": "Pescara", "qa": 4, "qi": 4 }
+{ "nome": "MOLINA", "ruolo": "T", "squadra": "Atalanta", "qa": 3, "qi": 3 }
+{ "nome": "MONTOLIVO", "ruolo": "C", "squadra": "Milan", "qa": 4, "qi": 9 }
+{ "nome": "MOROSINI", "ruolo": "T", "squadra": "Genoa", "qa": 9, "qi": 9 }
+{ "nome": "MORRISON", "ruolo": "C", "squadra": "Lazio", "qa": 3, "qi": 3 }
+{ "nome": "MOUNIER", "ruolo": "T", "squadra": "Bologna", "qa": 4, "qi": 11 }
+{ "nome": "MURGIA", "ruolo": "C", "squadra": "Lazio", "qa": 4, "qi": 1 }
+{ "nome": "MURIC", "ruolo": "T", "squadra": "Pescara", "qa": 4, "qi": 7 }
+{ "nome": "NAGY", "ruolo": "C", "squadra": "Bologna", "qa": 9, "qi": 7 }
+{ "nome": "NAINGGOLAN", "ruolo": "C", "squadra": "Roma", "qa": 23, "qi": 18 }
+{ "nome": "NICOLETTI", "ruolo": "C", "squadra": "Crotone", "qa": 1, "qi": 1 }
+{ "nome": "NINKOVIC", "ruolo": "T", "squadra": "Genoa", "qa": 7, "qi": 2 }
+{ "nome": "NTCHAM", "ruolo": "C", "squadra": "Genoa", "qa": 4, "qi": 5 }
+{ "nome": "OBI", "ruolo": "C", "squadra": "Torino", "qa": 6, "qi": 4 }
+{ "nome": "OKONKWO", "ruolo": "T", "squadra": "Bologna", "qa": 2, "qi": 2 }
+{ "nome": "PADOIN", "ruolo": "C", "squadra": "Cagliari", "qa": 8, "qi": 6 }
+{ "nome": "PALOMBO", "ruolo": "C", "squadra": "Sampdoria", "qa": 3, "qi": 4 }
+{ "nome": "PAREDES", "ruolo": "C", "squadra": "Roma", "qa": 6, "qi": 8 }
+{ "nome": "PAROLO", "ruolo": "C", "squadra": "Lazio", "qa": 14, "qi": 14 }
+{ "nome": "PASALIC", "ruolo": "C", "squadra": "Milan", "qa": 6, "qi": 8 }
+{ "nome": "PELLEGRINI", "ruolo": "C", "squadra": "Sassuolo", "qa": 13, "qi": 8 }
+{ "nome": "PEPE", "ruolo": "T", "squadra": "Pescara", "qa": 6, "qi": 8 }
+{ "nome": "PERISIC", "ruolo": "T", "squadra": "Inter", "qa": 25, "qi": 19 }
+{ "nome": "PEROTTI", "ruolo": "T", "squadra": "Roma", "qa": 23, "qi": 17 }
+{ "nome": "PJANIC", "ruolo": "C", "squadra": "Juventus", "qa": 26, "qi": 21 }
+{ "nome": "POLI", "ruolo": "C", "squadra": "Milan", "qa": 4, "qi": 5 }
+{ "nome": "POLITANO", "ruolo": "T", "squadra": "Sassuolo", "qa": 16, "qi": 11 }
+{ "nome": "PRAET", "ruolo": "T", "squadra": "Sampdoria", "qa": 12, "qi": 14 }
+{ "nome": "PULGAR", "ruolo": "C", "squadra": "Bologna", "qa": 4, "qi": 3 }
+{ "nome": "QUAISON", "ruolo": "T", "squadra": "Palermo", "qa": 14, "qi": 8 }
+{ "nome": "RADOVANOVIC", "ruolo": "C", "squadra": "Chievo", "qa": 9, "qi": 6 }
+{ "nome": "RIGONI", "ruolo": "C", "squadra": "Genoa", "qa": 14, "qi": 12 }
+{ "nome": "RIGONI N", "ruolo": "C", "squadra": "Chievo", "qa": 6, "qi": 9 }
+{ "nome": "RINCON", "ruolo": "C", "squadra": "Juventus", "qa": 14, "qi": 13 }
+{ "nome": "RIZZO", "ruolo": "T", "squadra": "Bologna", "qa": 5, "qi": 7 }
+{ "nome": "ROG", "ruolo": "C", "squadra": "Napoli", "qa": 4, "qi": 12 }
+{ "nome": "ROHDEN", "ruolo": "C", "squadra": "Crotone", "qa": 9, "qi": 7 }
+{ "nome": "SALA", "ruolo": "C", "squadra": "Sampdoria", "qa": 4, "qi": 6 }
+{ "nome": "SALZANO", "ruolo": "C", "squadra": "Crotone", "qa": 4, "qi": 3 }
+{ "nome": "SANCHEZ", "ruolo": "C", "squadra": "Fiorentina", "qa": 10, "qi": 7 }
+{ "nome": "SAPONARA", "ruolo": "T", "squadra": "Empoli", "qa": 16, "qi": 18 }
+{ "nome": "SARZI", "ruolo": "C", "squadra": "Sassuolo", "qa": 1, "qi": 1 }
+{ "nome": "SENSI", "ruolo": "C", "squadra": "Sassuolo", "qa": 6, "qi": 6 }
+{ "nome": "JOSE' SOSA", "ruolo": "T", "squadra": "Milan", "qa": 4, "qi": 11 }
+{ "nome": "SPINAZZOLA", "ruolo": "T", "squadra": "Atalanta", "qa": 9, "qi": 4 }
+{ "nome": "STOIAN", "ruolo": "T", "squadra": "Crotone", "qa": 7, "qi": 8 }
+{ "nome": "STROOTMAN", "ruolo": "C", "squadra": "Roma", "qa": 15, "qi": 11 }
+{ "nome": "STURARO", "ruolo": "C", "squadra": "Juventus", "qa": 6, "qi": 7 }
+{ "nome": "SUSO", "ruolo": "T", "squadra": "Milan", "qa": 23, "qi": 14 }
+{ "nome": "TAARABT", "ruolo": "T", "squadra": "Genoa", "qa": 9, "qi": 9 }
+{ "nome": "TABACCHI", "ruolo": "T", "squadra": "Bologna", "qa": 1, "qi": 1 }
+{ "nome": "TACHTSIDIS", "ruolo": "C", "squadra": "Cagliari", "qa": 6, "qi": 9 }
+{ "nome": "TAIDER", "ruolo": "C", "squadra": "Bologna", "qa": 8, "qi": 6 }
+{ "nome": "TELLO A", "ruolo": "C", "squadra": "Empoli", "qa": 4, "qi": 4 }
+{ "nome": "TELLO C", "ruolo": "T", "squadra": "Fiorentina", "qa": 12, "qi": 13 }
+{ "nome": "TOLEDO", "ruolo": "T", "squadra": "Fiorentina", "qa": 4, "qi": 6 }
+{ "nome": "TONEV", "ruolo": "T", "squadra": "Crotone", "qa": 4, "qi": 6 }
+{ "nome": "TORREIRA", "ruolo": "C", "squadra": "Sampdoria", "qa": 11, "qi": 6 }
+{ "nome": "VALDIFIORI", "ruolo": "C", "squadra": "Torino", "qa": 8, "qi": 5 }
+{ "nome": "VECINO", "ruolo": "C", "squadra": "Fiorentina", "qa": 11, "qi": 12 }
+{ "nome": "MIGUEL VELOSO", "ruolo": "C", "squadra": "Genoa", "qa": 7, "qi": 8 }
+{ "nome": "VERDI", "ruolo": "T", "squadra": "Bologna", "qa": 10, "qi": 9 }
+{ "nome": "VERRE", "ruolo": "C", "squadra": "Pescara", "qa": 5, "qi": 6 }
+{ "nome": "VIVES", "ruolo": "C", "squadra": "Torino", "qa": 4, "qi": 6 }
+{ "nome": "VIVIANI", "ruolo": "C", "squadra": "Bologna", "qa": 8, "qi": 9 }
+{ "nome": "ZANELLATO", "ruolo": "C", "squadra": "Milan", "qa": 1, "qi": 1 }
+{ "nome": "ZANIMACCHIA", "ruolo": "T", "squadra": "Genoa", "qa": 1, "qi": 1 }
+{ "nome": "ZIELINSKI", "ruolo": "C", "squadra": "Napoli", "qa": 18, "qi": 13 }
+{ "nome": "ZONTA", "ruolo": "C", "squadra": "Inter", "qa": 1, "qi": 1 }
+{ "nome": "ACATULLO", "ruolo": "A", "squadra": "Pescara", "qa": 1, "qi": 1 }
+{ "nome": "ACQUAFRESCA", "ruolo": "A", "squadra": "Bologna", "qa": 4, "qi": 4 }
+{ "nome": "LUIS ALBERTO", "ruolo": "T", "squadra": "Lazio", "qa": 5, "qi": 12 }
+{ "nome": "ARRAS", "ruolo": "A", "squadra": "Cagliari", "qa": 1, "qi": 1 }
+{ "nome": "BABACAR", "ruolo": "A", "squadra": "Fiorentina", "qa": 10, "qi": 13 }
+{ "nome": "BACCA", "ruolo": "A", "squadra": "Milan", "qa": 27, "qi": 28 }
+{ "nome": "BAHEBECK", "ruolo": "T", "squadra": "Pescara", "qa": 3, "qi": 10 }
+{ "nome": "BALOGH", "ruolo": "A", "squadra": "Palermo", "qa": 4, "qi": 7 }
+{ "nome": "BELOTTI", "ruolo": "A", "squadra": "Torino", "qa": 35, "qi": 21 }
+{ "nome": "BENTIVEGNA", "ruolo": "T", "squadra": "Palermo", "qa": 3, "qi": 2 }
+{ "nome": "BERARDI", "ruolo": "T", "squadra": "Sassuolo", "qa": 6, "qi": 22 }
+{ "nome": "BORRIELLO", "ruolo": "A", "squadra": "Cagliari", "qa": 23, "qi": 13 }
+{ "nome": "BOYE'", "ruolo": "A", "squadra": "Torino", "qa": 6, "qi": 4 }
+{ "nome": "BUDIMIR", "ruolo": "A", "squadra": "Sampdoria", "qa": 6, "qi": 15 }
+{ "nome": "CALLEJON", "ruolo": "T", "squadra": "Napoli", "qa": 26, "qi": 19 }
+{ "nome": "CAPRARI", "ruolo": "T", "squadra": "Pescara", "qa": 16, "qi": 14 }
+{ "nome": "CASSANO", "ruolo": "A", "squadra": "Sampdoria", "qa": 3, "qi": 12 }
+{ "nome": "CERRI", "ruolo": "A", "squadra": "Pescara", "qa": 11, "qi": 11 }
+{ "nome": "CHIESA", "ruolo": "T", "squadra": "Fiorentina", "qa": 6, "qi": 1 }
+{ "nome": "DE GIORGIO", "ruolo": "T", "squadra": "Crotone", "qa": 3, "qi": 3 }
+{ "nome": "DEFREL", "ruolo": "A", "squadra": "Sassuolo", "qa": 22, "qi": 17 }
+{ "nome": "DEL SOLE", "ruolo": "T", "squadra": "Pescara", "qa": 1, "qi": 1 }
+{ "nome": "DESTRO", "ruolo": "A", "squadra": "Bologna", "qa": 16, "qi": 19 }
+{ "nome": "DJORDJEVIC", "ruolo": "A", "squadra": "Lazio", "qa": 7, "qi": 14 }
+{ "nome": "DJURICIC", "ruolo": "T", "squadra": "Sampdoria", "qa": 4, "qi": 8 }
+{ "nome": "DYBALA", "ruolo": "A", "squadra": "Juventus", "qa": 25, "qi": 34 }
+{ "nome": "DZEKO", "ruolo": "A", "squadra": "Roma", "qa": 31, "qi": 20 }
+{ "nome": "EDER", "ruolo": "A", "squadra": "Inter", "qa": 16, "qi": 17 }
+{ "nome": "EL SHAARAWY", "ruolo": "T", "squadra": "Roma", "qa": 21, "qi": 21 }
+{ "nome": "EWANDRO", "ruolo": "T", "squadra": "Udinese", "qa": 4, "qi": 4 }
+{ "nome": "FALCINELLI", "ruolo": "A", "squadra": "Crotone", "qa": 15, "qi": 8 }
+{ "nome": "FARIAS", "ruolo": "T", "squadra": "Cagliari", "qa": 16, "qi": 14 }
+{ "nome": "FLOCCARI", "ruolo": "A", "squadra": "Bologna", "qa": 4, "qi": 11 }
+{ "nome": "FLORO FLORES", "ruolo": "A", "squadra": "Chievo", "qa": 8, "qi": 12 }
+{ "nome": "FORTE", "ruolo": "T", "squadra": "Pescara", "qa": 3, "qi": 3 }
+{ "nome": "GABBIADINI", "ruolo": "A", "squadra": "Napoli", "qa": 14, "qi": 16 }
+{ "nome": "GABIGOL", "ruolo": "T", "squadra": "Inter", "qa": 3, "qi": 17 }
+{ "nome": "GERSON", "ruolo": "T", "squadra": "Roma", "qa": 3, "qi": 10 }
+{ "nome": "GIANNETTI", "ruolo": "T", "squadra": "Cagliari", "qa": 5, "qi": 10 }
+{ "nome": "GILARDINO", "ruolo": "A", "squadra": "Pescara", "qa": 12, "qi": 17 }
+{ "nome": "HAGI", "ruolo": "T", "squadra": "Fiorentina", "qa": 3, "qi": 3 }
+{ "nome": "HIGUAIN", "ruolo": "A", "squadra": "Juventus", "qa": 43, "qi": 40 }
+{ "nome": "ICARDI", "ruolo": "A", "squadra": "Inter", "qa": 40, "qi": 31 }
+{ "nome": "IEMMELLO", "ruolo": "A", "squadra": "Sassuolo", "qa": 7, "qi": 10 }
+{ "nome": "ILICIC", "ruolo": "T", "squadra": "Fiorentina", "qa": 19, "qi": 23 }
+{ "nome": "IMMOBILE", "ruolo": "A", "squadra": "Lazio", "qa": 30, "qi": 20 }
+{ "nome": "INGLESE", "ruolo": "A", "squadra": "Chievo", "qa": 10, "qi": 11 }
+{ "nome": "INSIGNE", "ruolo": "T", "squadra": "Napoli", "qa": 28, "qi": 23 }
+{ "nome": "ITURBE", "ruolo": "T", "squadra": "Torino", "qa": 4, "qi": 9 }
+{ "nome": "KALINIC", "ruolo": "A", "squadra": "Fiorentina", "qa": 30, "qi": 23 }
+{ "nome": "KEAN", "ruolo": "A", "squadra": "Juventus", "qa": 2, "qi": 2 }
+{ "nome": "KEITA B", "ruolo": "T", "squadra": "Lazio", "qa": 22, "qi": 16 }
+{ "nome": "KISHNA", "ruolo": "T", "squadra": "Lazio", "qa": 3, "qi": 7 }
+{ "nome": "LAPADULA", "ruolo": "A", "squadra": "Milan", "qa": 16, "qi": 17 }
+{ "nome": "LATTE", "ruolo": "T", "squadra": "Atalanta", "qa": 1, "qi": 1 }
+{ "nome": "LO FASO", "ruolo": "A", "squadra": "Palermo", "qa": 2, "qi": 1 }
+{ "nome": "LOMBARDI", "ruolo": "A", "squadra": "Lazio", "qa": 3, "qi": 1 }
+{ "nome": "MACCARONE", "ruolo": "A", "squadra": "Empoli", "qa": 18, "qi": 18 }
+{ "nome": "MANAJ", "ruolo": "A", "squadra": "Pescara", "qa": 7, "qi": 9 }
+{ "nome": "MANDZUKIC", "ruolo": "A", "squadra": "Juventus", "qa": 25, "qi": 26 }
+{ "nome": "MARILUNGO", "ruolo": "A", "squadra": "Empoli", "qa": 7, "qi": 7 }
+{ "nome": "MARTINEZ", "ruolo": "A", "squadra": "Torino", "qa": 5, "qi": 10 }
+{ "nome": "MATOS", "ruolo": "T", "squadra": "Udinese", "qa": 4, "qi": 8 }
+{ "nome": "MATRI", "ruolo": "A", "squadra": "Sassuolo", "qa": 13, "qi": 10 }
+{ "nome": "MAXI LOPEZ", "ruolo": "A", "squadra": "Torino", "qa": 3, "qi": 11 }
+{ "nome": "MCHEDLIDZE", "ruolo": "A", "squadra": "Empoli", "qa": 9, "qi": 7 }
+{ "nome": "MEGGIORINI", "ruolo": "A", "squadra": "Chievo", "qa": 15, "qi": 14 }
+{ "nome": "MELCHIORRI", "ruolo": "A", "squadra": "Cagliari", "qa": 11, "qi": 13 }
+{ "nome": "MILIK", "ruolo": "A", "squadra": "Napoli", "qa": 8, "qi": 24 }
+{ "nome": "MIRANDA", "ruolo": "A", "squadra": "Chievo", "qa": 2, "qi": 2 }
+{ "nome": "MURIEL", "ruolo": "A", "squadra": "Sampdoria", "qa": 20, "qi": 14 }
+{ "nome": "NALINI", "ruolo": "T", "squadra": "Crotone", "qa": 4, "qi": 4 }
+{ "nome": "NEGRO", "ruolo": "A", "squadra": "Napoli", "qa": 1, "qi": 1 }
+{ "nome": "NESTOROVSKI", "ruolo": "A", "squadra": "Palermo", "qa": 20, "qi": 12 }
+{ "nome": "NIANG", "ruolo": "A", "squadra": "Milan", "qa": 14, "qi": 18 }
+{ "nome": "OCAMPOS", "ruolo": "T", "squadra": "Genoa", "qa": 12, "qi": 12 }
+{ "nome": "PALACIO", "ruolo": "A", "squadra": "Inter", "qa": 6, "qi": 12 }
+{ "nome": "PALLADINO", "ruolo": "T", "squadra": "Crotone", "qa": 11, "qi": 11 }
+{ "nome": "PALOSCHI", "ruolo": "A", "squadra": "Atalanta", "qa": 5, "qi": 20 }
+{ "nome": "PANDEV", "ruolo": "A", "squadra": "Genoa", "qa": 4, "qi": 9 }
+{ "nome": "PAVOLETTI", "ruolo": "A", "squadra": "Napoli", "qa": 12, "qi": 24 }
+{ "nome": "PELLISSIER", "ruolo": "A", "squadra": "Chievo", "qa": 18, "qi": 10 }
+{ "nome": "PEREZ", "ruolo": "T", "squadra": "Fiorentina", "qa": 2, "qi": 2 }
+{ "nome": "PERICA", "ruolo": "A", "squadra": "Udinese", "qa": 11, "qi": 6 }
+{ "nome": "PESIC", "ruolo": "A", "squadra": "Atalanta", "qa": 4, "qi": 11 }
+{ "nome": "PETAGNA", "ruolo": "A", "squadra": "Atalanta", "qa": 17, "qi": 8 }
+{ "nome": "PETKOVIC", "ruolo": "A", "squadra": "Bologna", "qa": 11, "qi": 11 }
+{ "nome": "PETTINARI", "ruolo": "A", "squadra": "Pescara", "qa": 4, "qi": 7 }
+{ "nome": "PIERINI", "ruolo": "T", "squadra": "Sassuolo", "qa": 1, "qi": 1 }
+{ "nome": "PINAMONTI", "ruolo": "A", "squadra": "Inter", "qa": 1, "qi": 1 }
+{ "nome": "PINILLA", "ruolo": "A", "squadra": "Genoa", "qa": 4, "qi": 12 }
+{ "nome": "PJACA", "ruolo": "T", "squadra": "Juventus", "qa": 4, "qi": 15 }
+{ "nome": "PUCCIARELLI", "ruolo": "A", "squadra": "Empoli", "qa": 10, "qi": 12 }
+{ "nome": "QUAGLIARELLA", "ruolo": "A", "squadra": "Sampdoria", "qa": 18, "qi": 17 }
+{ "nome": "RAGUSA", "ruolo": "T", "squadra": "Sassuolo", "qa": 12, "qi": 8 }
+{ "nome": "RICCI", "ruolo": "T", "squadra": "Sassuolo", "qa": 10, "qi": 7 }
+{ "nome": "SADIQ", "ruolo": "A", "squadra": "Bologna", "qa": 4, "qi": 6 }
+{ "nome": "SALAH", "ruolo": "T", "squadra": "Roma", "qa": 26, "qi": 24 }
+{ "nome": "SALLAI", "ruolo": "T", "squadra": "Palermo", "qa": 2, "qi": 3 }
+{ "nome": "SAU", "ruolo": "A", "squadra": "Cagliari", "qa": 18, "qi": 15 }
+{ "nome": "SCHICK", "ruolo": "A", "squadra": "Sampdoria", "qa": 14, "qi": 10 }
+{ "nome": "SILVA", "ruolo": "A", "squadra": "Palermo", "qa": 10, "qi": 10 }
+{ "nome": "SIMEONE", "ruolo": "A", "squadra": "Genoa", "qa": 21, "qi": 12 }
+{ "nome": "SIMY", "ruolo": "A", "squadra": "Crotone", "qa": 6, "qi": 10 }
+{ "nome": "SOLERI", "ruolo": "A", "squadra": "Roma", "qa": 2, "qi": 2 }
+{ "nome": "TCHANTURIA", "ruolo": "A", "squadra": "Empoli", "qa": 1, "qi": 1 }
+{ "nome": "THEREAU", "ruolo": "A", "squadra": "Udinese", "qa": 25, "qi": 19 }
+{ "nome": "THIAM", "ruolo": "A", "squadra": "Empoli", "qa": 9, "qi": 9 }
+{ "nome": "TOTTI", "ruolo": "A", "squadra": "Roma", "qa": 6, "qi": 13 }
+{ "nome": "TOUNKARA", "ruolo": "A", "squadra": "Lazio", "qa": 4, "qi": 5 }
+{ "nome": "TRAJKOVSKI", "ruolo": "T", "squadra": "Palermo", "qa": 4, "qi": 11 }
+{ "nome": "TROTTA", "ruolo": "A", "squadra": "Crotone", "qa": 10, "qi": 9 }
+{ "nome": "ZAPATA D", "ruolo": "A", "squadra": "Udinese", "qa": 20, "qi": 17 }
+{ "nome": "ZARATE", "ruolo": "T", "squadra": "Fiorentina", "qa": 9, "qi": 12 }
+{ "nome": "ZECCA", "ruolo": "T", "squadra": "Sassuolo", "qa": 1, "qi": 1 }

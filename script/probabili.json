@@ -1,0 +1,434 @@
+{ "nome": "SORRENTINO", "perc": 90, "tit": "SI" }
+{ "nome": "FREY", "perc": 80, "tit": "SI" }
+{ "nome": "GAMBERINI", "perc": 90, "tit": "SI" }
+{ "nome": "DAINELLI", "perc": 85, "tit": "SI" }
+{ "nome": "GOBBI", "perc": 85, "tit": "SI" }
+{ "nome": "CASTRO", "perc": 85, "tit": "SI" }
+{ "nome": "DE GUZMAN", "perc": 60, "tit": "SI" }
+{ "nome": "IZCO", "perc": 85, "tit": "SI" }
+{ "nome": "BIRSA", "perc": 60, "tit": "SI" }
+{ "nome": "PELLISSIER", "perc": 55, "tit": "SI" }
+{ "nome": "MEGGIORINI", "perc": 80, "tit": "SI" }
+{ "nome": "SECULIN", "perc": 5, "tit": "NO" }
+{ "nome": "BRESSAN", "perc": 5, "tit": "NO" }
+{ "nome": "SARDO", "perc": 10, "tit": "NO" }
+{ "nome": "CESAR", "perc": 20, "tit": "NO" }
+{ "nome": "BASTIEN", "perc": 50, "tit": "NO" }
+{ "nome": "RIGONI N", "perc": 5, "tit": "NO" }
+{ "nome": "FLORO FLORES", "perc": 55, "tit": "NO" }
+{ "nome": "INGLESE", "perc": 45, "tit": "NO" }
+{ "nome": "DONNARUMMA G", "perc": 90, "tit": "SI" }
+{ "nome": "ABATE", "perc": 80, "tit": "SI" }
+{ "nome": "PALETTA", "perc": 90, "tit": "SI" }
+{ "nome": "GOMEZ G", "perc": 80, "tit": "SI" }
+{ "nome": "CALABRIA", "perc": 55, "tit": "SI" }
+{ "nome": "PASALIC", "perc": 60, "tit": "SI" }
+{ "nome": "BERTOLACCI", "perc": 80, "tit": "SI" }
+{ "nome": "BONAVENTURA", "perc": 90, "tit": "SI" }
+{ "nome": "SUSO", "perc": 90, "tit": "SI" }
+{ "nome": "BACCA", "perc": 85, "tit": "SI" }
+{ "nome": "NIANG", "perc": 55, "tit": "SI" }
+{ "nome": "STORARI", "perc": 5, "tit": "NO" }
+{ "nome": "PLIZZARI", "perc": 1, "tit": "NO" }
+{ "nome": "DE SCIGLIO", "perc": 10, "tit": "NO" }
+{ "nome": "RODRIGO ELY", "perc": 10, "tit": "NO" }
+{ "nome": "ZAPATA C", "perc": 25, "tit": "NO" }
+{ "nome": "VANGIONI", "perc": 30, "tit": "NO" }
+{ "nome": "ANTONELLI", "perc": 10, "tit": "NO" }
+{ "nome": "KUCKA", "perc": 55, "tit": "NO" }
+{ "nome": "JOSE' SOSA", "perc": 35, "tit": "NO" }
+{ "nome": "HONDA", "perc": 30, "tit": "NO" }
+{ "nome": "LAPADULA", "perc": 55, "tit": "NO" }
+{ "nome": "BUFFON", "perc": 90, "tit": "SI" }
+{ "nome": "BARZAGLI", "perc": 65, "tit": "SI" }
+{ "nome": "BONUCCI", "perc": 85, "tit": "SI" }
+{ "nome": "CHIELLINI", "perc": 85, "tit": "SI" }
+{ "nome": "LICHTSTEINER", "perc": 90, "tit": "SI" }
+{ "nome": "KHEDIRA", "perc": 85, "tit": "SI" }
+{ "nome": "MARCHISIO", "perc": 90, "tit": "SI" }
+{ "nome": "PJANIC", "perc": 85, "tit": "SI" }
+{ "nome": "ASAMOAH", "perc": 80, "tit": "SI" }
+{ "nome": "DYBALA", "perc": 65, "tit": "SI" }
+{ "nome": "HIGUAIN", "perc": 90, "tit": "SI" }
+{ "nome": "NETO", "perc": 5, "tit": "NO" }
+{ "nome": "AUDERO", "perc": 1, "tit": "NO" }
+{ "nome": "RUGANI", "perc": 35, "tit": "NO" }
+{ "nome": "HERNANES", "perc": 25, "tit": "NO" }
+{ "nome": "RINCON", "perc": 55, "tit": "NO" }
+{ "nome": "CUADRADO", "perc": 55, "tit": "NO" }
+{ "nome": "MANDZUKIC", "perc": 55, "tit": "NO" }
+{ "nome": "PJACA", "perc": 40, "tit": "NO" }
+{ "nome": "MIRANTE", "perc": 90, "tit": "SI" }
+{ "nome": "KRAFTH", "perc": 85, "tit": "SI" }
+{ "nome": "OIKONOMOU", "perc": 80, "tit": "SI" }
+{ "nome": "MAIETTA", "perc": 85, "tit": "SI" }
+{ "nome": "MASINA", "perc": 85, "tit": "SI" }
+{ "nome": "DZEMAILI", "perc": 90, "tit": "SI" }
+{ "nome": "NAGY", "perc": 80, "tit": "SI" }
+{ "nome": "VIVIANI", "perc": 80, "tit": "SI" }
+{ "nome": "DI FRANCESCO F", "perc": 55, "tit": "SI" }
+{ "nome": "DESTRO", "perc": 90, "tit": "SI" }
+{ "nome": "KREJCI", "perc": 90, "tit": "SI" }
+{ "nome": "DA COSTA", "perc": 5, "tit": "NO" }
+{ "nome": "SARR", "perc": 1, "tit": "NO" }
+{ "nome": "MBAYE", "perc": 25, "tit": "NO" }
+{ "nome": "FERRARI A", "perc": 35, "tit": "NO" }
+{ "nome": "RIZZO", "perc": 55, "tit": "NO" }
+{ "nome": "PULGAR", "perc": 55, "tit": "NO" }
+{ "nome": "DONSAH", "perc": 50, "tit": "NO" }
+{ "nome": "VERDI", "perc": 30, "tit": "NO" }
+{ "nome": "MOUNIER", "perc": 50, "tit": "NO" }
+{ "nome": "OKWONKWO", "perc": 20, "tit": "NO" }
+{ "nome": "FLOCCARI", "perc": 10, "tit": "NO" }
+{ "nome": "PETKOVIC", "perc": 30, "tit": "NO" }
+{ "nome": "SKORUPSKI", "perc": 90, "tit": "SI" }
+{ "nome": "LAURINI", "perc": 80, "tit": "SI" }
+{ "nome": "BELLUSCI", "perc": 90, "tit": "SI" }
+{ "nome": "COSTA", "perc": 80, "tit": "SI" }
+{ "nome": "PASQUAL", "perc": 85, "tit": "SI" }
+{ "nome": "KRUNIC", "perc": 85, "tit": "SI" }
+{ "nome": "MAURI J", "perc": 60, "tit": "SI" }
+{ "nome": "CROCE", "perc": 90, "tit": "SI" }
+{ "nome": "SAPONARA", "perc": 85, "tit": "SI" }
+{ "nome": "MCHEDLIDZE", "perc": 85, "tit": "SI" }
+{ "nome": "MARILUNGO", "perc": 60, "tit": "SI" }
+{ "nome": "PELAGOTTI", "perc": 5, "tit": "NO" }
+{ "nome": "PUGLIESI", "perc": 1, "tit": "NO" }
+{ "nome": "COSIC", "perc": 40, "tit": "NO" }
+{ "nome": "VESELI", "perc": 30, "tit": "NO" }
+{ "nome": "DIMARCO", "perc": 45, "tit": "NO" }
+{ "nome": "MATHEUS PEREIRA", "perc": 15, "tit": "NO" }
+{ "nome": "TELLO A", "perc": 55, "tit": "NO" }
+{ "nome": "BUCHEL", "perc": 45, "tit": "NO" }
+{ "nome": "THIAM", "perc": 20, "tit": "NO" }
+{ "nome": "PUCCIARELLI", "perc": 55, "tit": "NO" }
+{ "nome": "MACCARONE", "perc": 50, "tit": "NO" }
+{ "nome": "LAMANNA", "perc": 90, "tit": "SI" }
+{ "nome": "IZZO", "perc": 85, "tit": "SI" }
+{ "nome": "BURDISSO", "perc": 90, "tit": "SI" }
+{ "nome": "MUNOZ", "perc": 80, "tit": "SI" }
+{ "nome": "EDENILSON", "perc": 55, "tit": "SI" }
+{ "nome": "CATALDI", "perc": 90, "tit": "SI" }
+{ "nome": "COFIE", "perc": 80, "tit": "SI" }
+{ "nome": "LAXALT", "perc": 65, "tit": "SI" }
+{ "nome": "RIGONI", "perc": 90, "tit": "SI" }
+{ "nome": "OCAMPOS", "perc": 60, "tit": "SI" }
+{ "nome": "SIMEONE", "perc": 90, "tit": "SI" }
+{ "nome": "RUBINHO", "perc": 5, "tit": "NO" }
+{ "nome": "ZIMA", "perc": 1, "tit": "NO" }
+{ "nome": "ORBAN", "perc": 50, "tit": "NO" }
+{ "nome": "GENTILETTI", "perc": 25, "tit": "NO" }
+{ "nome": "LAZOVIC", "perc": 60, "tit": "NO" }
+{ "nome": "BEGHETTO", "perc": 30, "tit": "NO" }
+{ "nome": "NINKOVIC", "perc": 60, "tit": "NO" }
+{ "nome": "MOROSINI", "perc": 40, "tit": "NO" }
+{ "nome": "TAARABT", "perc": 40, "tit": "NO" }
+{ "nome": "NTCHAM", "perc": 20, "tit": "NO" }
+{ "nome": "PANDEV", "perc": 30, "tit": "NO" }
+{ "nome": "PINILLA", "perc": 55, "tit": "NO" }
+{ "nome": "POSAVEC", "perc": 90, "tit": "SI" }
+{ "nome": "CIONEK", "perc": 85, "tit": "SI" }
+{ "nome": "GONZALEZ G", "perc": 90, "tit": "SI" }
+{ "nome": "GOLDANIGA", "perc": 90, "tit": "SI" }
+{ "nome": "RISPOLI", "perc": 80, "tit": "SI" }
+{ "nome": "BRUNO HENRIQUE", "perc": 85, "tit": "SI" }
+{ "nome": "JAJALO", "perc": 80, "tit": "SI" }
+{ "nome": "GAZZI", "perc": 60, "tit": "SI" }
+{ "nome": "ALEESAMI", "perc": 65, "tit": "SI" }
+{ "nome": "QUAISON", "perc": 90, "tit": "SI" }
+{ "nome": "NESTOROVSKI", "perc": 90, "tit": "SI" }
+{ "nome": "FULIGNATI", "perc": 5, "tit": "NO" }
+{ "nome": "VITIELLO", "perc": 25, "tit": "NO" }
+{ "nome": "PEZZELLA", "perc": 30, "tit": "NO" }
+{ "nome": "MORGANELLA", "perc": 50, "tit": "NO" }
+{ "nome": "HILJEMARK", "perc": 45, "tit": "NO" }
+{ "nome": "CHOCHEV", "perc": 45, "tit": "NO" }
+{ "nome": "EMBALO", "perc": 50, "tit": "NO" }
+{ "nome": "DIAMANTI", "perc": 55, "tit": "NO" }
+{ "nome": "BENTIVEGNA", "perc": 25, "tit": "NO" }
+{ "nome": "STEFAN SILVA", "perc": 20, "tit": "NO" }
+{ "nome": "BALOGH", "perc": 50, "tit": "NO" }
+{ "nome": "TRAJKOVSKI", "perc": 40, "tit": "NO" }
+{ "nome": "BIZZARRI", "perc": 90, "tit": "SI" }
+{ "nome": "CODA", "perc": 60, "tit": "SI" }
+{ "nome": "STENDARDO", "perc": 90, "tit": "SI" }
+{ "nome": "CRESCENZI", "perc": 90, "tit": "SI" }
+{ "nome": "BENALI", "perc": 60, "tit": "SI" }
+{ "nome": "VERRE", "perc": 80, "tit": "SI" }
+{ "nome": "CRISTANTE", "perc": 85, "tit": "SI" }
+{ "nome": "MEMUSHAJ", "perc": 85, "tit": "SI" }
+{ "nome": "BIRAGHI", "perc": 90, "tit": "SI" }
+{ "nome": "GILARDINO", "perc": 80, "tit": "SI" }
+{ "nome": "CAPRARI", "perc": 90, "tit": "SI" }
+{ "nome": "FIORILLO", "perc": 5, "tit": "NO" }
+{ "nome": "ALDEGANI", "perc": 1, "tit": "NO" }
+{ "nome": "FORNASIER", "perc": 35, "tit": "NO" }
+{ "nome": "DELLI CARRI", "perc": 10, "tit": "NO" }
+{ "nome": "ZUPARIC", "perc": 25, "tit": "NO" }
+{ "nome": "MITRITA", "perc": 55, "tit": "NO" }
+{ "nome": "BRUNO", "perc": 50, "tit": "NO" }
+{ "nome": "PETTINARI", "perc": 30, "tit": "NO" }
+{ "nome": "CERRI", "perc": 55, "tit": "NO" }
+{ "nome": "BERISHA", "perc": 90, "tit": "SI" }
+{ "nome": "MASIELLO A", "perc": 85, "tit": "SI" }
+{ "nome": "TOLOI", "perc": 60, "tit": "SI" }
+{ "nome": "CALDARA", "perc": 90, "tit": "SI" }
+{ "nome": "CONTI", "perc": 85, "tit": "SI" }
+{ "nome": "KURTIC", "perc": 90, "tit": "SI" }
+{ "nome": "FREULER", "perc": 90, "tit": "SI" }
+{ "nome": "SPINAZZOLA", "perc": 90, "tit": "SI" }
+{ "nome": "ZUKANOVIC", "perc": 55, "tit": "SI" }
+{ "nome": "PETAGNA", "perc": 85, "tit": "SI" }
+{ "nome": "GOMEZ A", "perc": 65, "tit": "SI" }
+{ "nome": "GOLLINI", "perc": 5, "tit": "NO" }
+{ "nome": "MAZZINI", "perc": 1, "tit": "NO" }
+{ "nome": "KONKO", "perc": 5, "tit": "NO" }
+{ "nome": "SUAGHER", "perc": 10, "tit": "NO" }
+{ "nome": "RAIMONDI", "perc": 20, "tit": "NO" }
+{ "nome": "DRAME'", "perc": 25, "tit": "NO" }
+{ "nome": "GRASSI", "perc": 50, "tit": "NO" }
+{ "nome": "MIGLIACCIO", "perc": 45, "tit": "NO" }
+{ "nome": "D'ALESSANDRO", "perc": 55, "tit": "NO" }
+{ "nome": "PALOSCHI", "perc": 50, "tit": "NO" }
+{ "nome": "PESIC", "perc": 40, "tit": "NO" }
+{ "nome": "SZCZESNY", "perc": 90, "tit": "SI" }
+{ "nome": "RUDIGER", "perc": 80, "tit": "SI" }
+{ "nome": "MANOLAS", "perc": 85, "tit": "SI" }
+{ "nome": "FAZIO", "perc": 90, "tit": "SI" }
+{ "nome": "BRUNO PERES", "perc": 90, "tit": "SI" }
+{ "nome": "STROOTMAN", "perc": 85, "tit": "SI" }
+{ "nome": "DE ROSSI", "perc": 90, "tit": "SI" }
+{ "nome": "EMERSON", "perc": 85, "tit": "SI" }
+{ "nome": "NAINGGOLAN", "perc": 90, "tit": "SI" }
+{ "nome": "EL SHAARAWY", "perc": 60, "tit": "SI" }
+{ "nome": "DZEKO", "perc": 90, "tit": "SI" }
+{ "nome": "ALISSON", "perc": 5, "tit": "NO" }
+{ "nome": "LOBONT", "perc": 1, "tit": "NO" }
+{ "nome": "SECK", "perc": 15, "tit": "NO" }
+{ "nome": "VERMAELEN", "perc": 40, "tit": "NO" }
+{ "nome": "MARIO RUI", "perc": 40, "tit": "NO" }
+{ "nome": "GERSON", "perc": 40, "tit": "NO" }
+{ "nome": "PAREDES", "perc": 55, "tit": "NO" }
+{ "nome": "PEROTTI", "perc": 10, "tit": "NO" }
+{ "nome": "TOTTI", "perc": 50, "tit": "NO" }
+{ "nome": "TATARUSANU", "perc": 90, "tit": "SI" }
+{ "nome": "SALCEDO", "perc": 55, "tit": "SI" }
+{ "nome": "RODRIGUEZ GO", "perc": 80, "tit": "SI" }
+{ "nome": "ASTORI", "perc": 90, "tit": "SI" }
+{ "nome": "CHIESA", "perc": 80, "tit": "SI" }
+{ "nome": "BORJA VALERO", "perc": 90, "tit": "SI" }
+{ "nome": "BADELJ", "perc": 85, "tit": "SI" }
+{ "nome": "OLIVERA M", "perc": 80, "tit": "SI" }
+{ "nome": "BERNARDESCHI", "perc": 90, "tit": "SI" }
+{ "nome": "ILICIC", "perc": 65, "tit": "SI" }
+{ "nome": "BABACAR", "perc": 65, "tit": "SI" }
+{ "nome": "SPORTIELLO", "perc": 5, "tit": "NO" }
+{ "nome": "LEZZERINI", "perc": 1, "tit": "NO" }
+{ "nome": "DE MAIO", "perc": 20, "tit": "NO" }
+{ "nome": "TOMOVIC", "perc": 50, "tit": "NO" }
+{ "nome": "MILIC", "perc": 40, "tit": "NO" }
+{ "nome": "CRISTOFORO", "perc": 30, "tit": "NO" }
+{ "nome": "SANCHEZ", "perc": 50, "tit": "NO" }
+{ "nome": "VECINO", "perc": 60, "tit": "NO" }
+{ "nome": "TELLO C", "perc": 50, "tit": "NO" }
+{ "nome": "ZARATE", "perc": 55, "tit": "NO" }
+{ "nome": "PEREZ", "perc": 20, "tit": "NO" }
+{ "nome": "HAGI", "perc": 10, "tit": "NO" }
+{ "nome": "REINA", "perc": 90, "tit": "SI" }
+{ "nome": "HYSAJ", "perc": 90, "tit": "SI" }
+{ "nome": "TONELLI", "perc": 60, "tit": "SI" }
+{ "nome": "ALBIOL", "perc": 90, "tit": "SI" }
+{ "nome": "STRINIC", "perc": 80, "tit": "SI" }
+{ "nome": "ZIELINSKI", "perc": 65, "tit": "SI" }
+{ "nome": "JORGINHO", "perc": 55, "tit": "SI" }
+{ "nome": "HAMSIK", "perc": 90, "tit": "SI" }
+{ "nome": "CALLEJON", "perc": 90, "tit": "SI" }
+{ "nome": "MERTENS", "perc": 85, "tit": "SI" }
+{ "nome": "INSIGNE", "perc": 85, "tit": "SI" }
+{ "nome": "SEPE", "perc": 5, "tit": "NO" }
+{ "nome": "RAFAEL CABRAL", "perc": 1, "tit": "NO" }
+{ "nome": "MAGGIO", "perc": 35, "tit": "NO" }
+{ "nome": "MAKSIMOVIC", "perc": 40, "tit": "NO" }
+{ "nome": "CHIRICHES", "perc": 20, "tit": "NO" }
+{ "nome": "GIACCHERINI", "perc": 50, "tit": "NO" }
+{ "nome": "ALLAN", "perc": 55, "tit": "NO" }
+{ "nome": "DIAWARA", "perc": 50, "tit": "NO" }
+{ "nome": "ROG", "perc": 30, "tit": "NO" }
+{ "nome": "PAVOLETTI", "perc": 50, "tit": "NO" }
+{ "nome": "GABBIADINI", "perc": 45, "tit": "NO" }
+{ "nome": "MARCHETTI", "perc": 90, "tit": "SI" }
+{ "nome": "WALLACE", "perc": 55, "tit": "SI" }
+{ "nome": "DE VRIJ", "perc": 90, "tit": "SI" }
+{ "nome": "RADU", "perc": 85, "tit": "SI" }
+{ "nome": "FELIPE ANDERSON", "perc": 85, "tit": "SI" }
+{ "nome": "PAROLO", "perc": 90, "tit": "SI" }
+{ "nome": "BIGLIA", "perc": 90, "tit": "SI" }
+{ "nome": "PATRIC", "perc": 55, "tit": "SI" }
+{ "nome": "LUIS ALBERTO", "perc": 55, "tit": "SI" }
+{ "nome": "MILINKOVIC-SAVIC", "perc": 90, "tit": "SI" }
+{ "nome": "IMMOBILE", "perc": 90, "tit": "SI" }
+{ "nome": "STRAKOSHA", "perc": 5, "tit": "NO" }
+{ "nome": "VARGIC", "perc": 1, "tit": "NO" }
+{ "nome": "BASTOS", "perc": 30, "tit": "NO" }
+{ "nome": "HOEDT", "perc": 40, "tit": "NO" }
+{ "nome": "BASTA", "perc": 55, "tit": "NO" }
+{ "nome": "LUKAKU", "perc": 20, "tit": "NO" }
+{ "nome": "LEITNER", "perc": 15, "tit": "NO" }
+{ "nome": "MURGIA", "perc": 50, "tit": "NO" }
+{ "nome": "KISHNA", "perc": 50, "tit": "NO" }
+{ "nome": "DJORDJEVIC", "perc": 35, "tit": "NO" }
+{ "nome": "LOMBARDI", "perc": 55, "tit": "NO" }
+{ "nome": "HART", "perc": 90, "tit": "SI" }
+{ "nome": "ZAPPACOSTA", "perc": 90, "tit": "SI" }
+{ "nome": "ROSSETTINI", "perc": 85, "tit": "SI" }
+{ "nome": "MORETTI", "perc": 80, "tit": "SI" }
+{ "nome": "BARRECA", "perc": 85, "tit": "SI" }
+{ "nome": "BENASSI", "perc": 85, "tit": "SI" }
+{ "nome": "VALDIFIORI", "perc": 90, "tit": "SI" }
+{ "nome": "OBI", "perc": 55, "tit": "SI" }
+{ "nome": "IAGO FALQUE", "perc": 85, "tit": "SI" }
+{ "nome": "MAXI LOPEZ", "perc": 65, "tit": "SI" }
+{ "nome": "LJAJIC", "perc": 80, "tit": "SI" }
+{ "nome": "PADELLI", "perc": 5, "tit": "NO" }
+{ "nome": "AVELAR", "perc": 10, "tit": "NO" }
+{ "nome": "AJETI", "perc": 25, "tit": "NO" }
+{ "nome": "DE SILVESTRI", "perc": 35, "tit": "NO" }
+{ "nome": "CARLAO", "perc": 35, "tit": "NO" }
+{ "nome": "GUSTAFSON", "perc": 20, "tit": "NO" }
+{ "nome": "LUKIC", "perc": 35, "tit": "NO" }
+{ "nome": "BASELLI", "perc": 55, "tit": "NO" }
+{ "nome": "VIVES", "perc": 10, "tit": "NO" }
+{ "nome": "MARTINEZ", "perc": 20, "tit": "NO" }
+{ "nome": "ITURBE", "perc": 55, "tit": "NO" }
+{ "nome": "BOYE'", "perc": 40, "tit": "NO" }
+{ "nome": "KARNEZIS", "perc": 90, "tit": "SI" }
+{ "nome": "FARAONI", "perc": 80, "tit": "SI" }
+{ "nome": "DANILO", "perc": 90, "tit": "SI" }
+{ "nome": "FELIPE", "perc": 90, "tit": "SI" }
+{ "nome": "SAMIR", "perc": 85, "tit": "SI" }
+{ "nome": "FOFANA", "perc": 90, "tit": "SI" }
+{ "nome": "KUMS", "perc": 55, "tit": "SI" }
+{ "nome": "JANKTO", "perc": 65, "tit": "SI" }
+{ "nome": "DE PAUL", "perc": 60, "tit": "SI" }
+{ "nome": "ZAPATA D", "perc": 90, "tit": "SI" }
+{ "nome": "THEREAU", "perc": 85, "tit": "SI" }
+{ "nome": "SCUFFET", "perc": 5, "tit": "NO" }
+{ "nome": "PERISAN", "perc": 1, "tit": "NO" }
+{ "nome": "ANGELLA", "perc": 35, "tit": "NO" }
+{ "nome": "HEURTAUX", "perc": 15, "tit": "NO" }
+{ "nome": "ADNAN", "perc": 35, "tit": "NO" }
+{ "nome": "LUCAS EVANGELISTA", "perc": 35, "tit": "NO" }
+{ "nome": "HALLFREDSSON", "perc": 55, "tit": "NO" }
+{ "nome": "BALIC", "perc": 10, "tit": "NO" }
+{ "nome": "PERICA", "perc": 55, "tit": "NO" }
+{ "nome": "EWANDRO", "perc": 40, "tit": "NO" }
+{ "nome": "MATOS", "perc": 50, "tit": "NO" }
+{ "nome": "CORDAZ", "perc": 90, "tit": "SI" }
+{ "nome": "ROSI", "perc": 85, "tit": "SI" }
+{ "nome": "CECCHERINI", "perc": 80, "tit": "SI" }
+{ "nome": "FERRARI G", "perc": 90, "tit": "SI" }
+{ "nome": "MARTELLA", "perc": 90, "tit": "SI" }
+{ "nome": "ROHDEN", "perc": 85, "tit": "SI" }
+{ "nome": "CAPEZZI", "perc": 60, "tit": "SI" }
+{ "nome": "CRISETIG", "perc": 60, "tit": "SI" }
+{ "nome": "STOIAN", "perc": 80, "tit": "SI" }
+{ "nome": "FALCINELLI", "perc": 90, "tit": "SI" }
+{ "nome": "TROTTA", "perc": 80, "tit": "SI" }
+{ "nome": "FESTA", "perc": 5, "tit": "NO" }
+{ "nome": "COJOCARU", "perc": 1, "tit": "NO" }
+{ "nome": "DUSSENNE", "perc": 30, "tit": "NO" }
+{ "nome": "SAMPIRISI", "perc": 45, "tit": "NO" }
+{ "nome": "CLAITON", "perc": 35, "tit": "NO" }
+{ "nome": "SALZANO", "perc": 20, "tit": "NO" }
+{ "nome": "BARBERIS", "perc": 55, "tit": "NO" }
+{ "nome": "GNAHORE'", "perc": 45, "tit": "NO" }
+{ "nome": "NALINI", "perc": 40, "tit": "NO" }
+{ "nome": "SIMY", "perc": 55, "tit": "NO" }
+{ "nome": "HANDANOVIC", "perc": 80, "tit": "SI" }
+{ "nome": "D'AMBROSIO", "perc": 85, "tit": "SI" }
+{ "nome": "MIRANDA", "perc": 90, "tit": "SI" }
+{ "nome": "MURILLO", "perc": 65, "tit": "SI" }
+{ "nome": "ANSALDI", "perc": 80, "tit": "SI" }
+{ "nome": "BROZOVIC", "perc": 85, "tit": "SI" }
+{ "nome": "GAGLIARDINI", "perc": 60, "tit": "SI" }
+{ "nome": "CANDREVA", "perc": 85, "tit": "SI" }
+{ "nome": "JOAO MARIO", "perc": 60, "tit": "SI" }
+{ "nome": "PERISIC", "perc": 90, "tit": "SI" }
+{ "nome": "ICARDI", "perc": 90, "tit": "SI" }
+{ "nome": "CARRIZO", "perc": 5, "tit": "NO" }
+{ "nome": "ANDREOLLI", "perc": 25, "tit": "NO" }
+{ "nome": "RANOCCHIA", "perc": 25, "tit": "NO" }
+{ "nome": "SANTON", "perc": 25, "tit": "NO" }
+{ "nome": "NAGATOMO", "perc": 45, "tit": "NO" }
+{ "nome": "BANEGA", "perc": 55, "tit": "NO" }
+{ "nome": "MEDEL", "perc": 45, "tit": "NO" }
+{ "nome": "BIABIANY", "perc": 25, "tit": "NO" }
+{ "nome": "KONDOGBIA", "perc": 55, "tit": "NO" }
+{ "nome": "EDER", "perc": 55, "tit": "NO" }
+{ "nome": "PALACIO", "perc": 45, "tit": "NO" }
+{ "nome": "GABIGOL", "perc": 35, "tit": "NO" }
+{ "nome": "CONSIGLI", "perc": 90, "tit": "SI" }
+{ "nome": "LIROLA", "perc": 85, "tit": "SI" }
+{ "nome": "LETSCHERT", "perc": 60, "tit": "SI" }
+{ "nome": "ACERBI", "perc": 90, "tit": "SI" }
+{ "nome": "PELUSO", "perc": 90, "tit": "SI" }
+{ "nome": "PELLEGRINI", "perc": 80, "tit": "SI" }
+{ "nome": "AQUILANI", "perc": 85, "tit": "SI" }
+{ "nome": "POLITANO", "perc": 65, "tit": "SI" }
+{ "nome": "BERARDI", "perc": 80, "tit": "SI" }
+{ "nome": "RAGUSA", "perc": 60, "tit": "SI" }
+{ "nome": "DEFREL", "perc": 80, "tit": "SI" }
+{ "nome": "PEGOLO", "perc": 5, "tit": "NO" }
+{ "nome": "POMINI", "perc": 1, "tit": "NO" }
+{ "nome": "CANNAVARO", "perc": 35, "tit": "NO" }
+{ "nome": "DELL'ORCO", "perc": 25, "tit": "NO" }
+{ "nome": "ANTEI", "perc": 40, "tit": "NO" }
+{ "nome": "ADJAPONG", "perc": 30, "tit": "NO" }
+{ "nome": "SENSI", "perc": 50, "tit": "NO" }
+{ "nome": "DUNCAN", "perc": 55, "tit": "NO" }
+{ "nome": "MAZZITELLI", "perc": 50, "tit": "NO" }
+{ "nome": "MATRI", "perc": 55, "tit": "NO" }
+{ "nome": "IEMMELLO", "perc": 35, "tit": "NO" }
+{ "nome": "RICCI", "perc": 55, "tit": "NO" }
+{ "nome": "PUGGIONI", "perc": 85, "tit": "SI" }
+{ "nome": "PEREIRA P", "perc": 80, "tit": "SI" }
+{ "nome": "SKRINIAR", "perc": 85, "tit": "SI" }
+{ "nome": "SILVESTRE", "perc": 90, "tit": "SI" }
+{ "nome": "REGINI", "perc": 90, "tit": "SI" }
+{ "nome": "PRAET", "perc": 65, "tit": "SI" }
+{ "nome": "TORREIRA", "perc": 90, "tit": "SI" }
+{ "nome": "LINETTY", "perc": 85, "tit": "SI" }
+{ "nome": "ALVAREZ R", "perc": 55, "tit": "SI" }
+{ "nome": "MURIEL", "perc": 90, "tit": "SI" }
+{ "nome": "QUAGLIARELLA", "perc": 60, "tit": "SI" }
+{ "nome": "TOZZO", "perc": 5, "tit": "NO" }
+{ "nome": "VIVIANO", "perc": 1, "tit": "NO" }
+{ "nome": "BERESZYNSKI", "perc": 40, "tit": "NO" }
+{ "nome": "PAVLOVIC", "perc": 40, "tit": "NO" }
+{ "nome": "DODO'", "perc": 40, "tit": "NO" }
+{ "nome": "AMUZIE", "perc": 10, "tit": "NO" }
+{ "nome": "PALOMBO", "perc": 35, "tit": "NO" }
+{ "nome": "CIGARINI", "perc": 30, "tit": "NO" }
+{ "nome": "BRUNO FERNANDES", "perc": 55, "tit": "NO" }
+{ "nome": "DJURICIC", "perc": 35, "tit": "NO" }
+{ "nome": "BUDIMIR", "perc": 20, "tit": "NO" }
+{ "nome": "SCHICK", "perc": 55, "tit": "NO" }
+{ "nome": "RAFAEL", "perc": 90, "tit": "SI" }
+{ "nome": "ISLA", "perc": 90, "tit": "SI" }
+{ "nome": "CEPPITELLI", "perc": 85, "tit": "SI" }
+{ "nome": "BRUNO ALVES", "perc": 90, "tit": "SI" }
+{ "nome": "MURRU", "perc": 60, "tit": "SI" }
+{ "nome": "DESSENA", "perc": 60, "tit": "SI" }
+{ "nome": "TACHTSIDIS", "perc": 85, "tit": "SI" }
+{ "nome": "BARELLA", "perc": 85, "tit": "SI" }
+{ "nome": "JOAO PEDRO", "perc": 60, "tit": "SI" }
+{ "nome": "BORRIELLO", "perc": 60, "tit": "SI" }
+{ "nome": "FARIAS", "perc": 90, "tit": "SI" }
+{ "nome": "GABRIEL", "perc": 5, "tit": "NO" }
+{ "nome": "COLOMBO", "perc": 1, "tit": "NO" }
+{ "nome": "SALAMON", "perc": 35, "tit": "NO" }
+{ "nome": "BITTANTE", "perc": 10, "tit": "NO" }
+{ "nome": "PISACANE", "perc": 45, "tit": "NO" }
+{ "nome": "DI GENNARO D", "perc": 5, "tit": "NO" }
+{ "nome": "SAU", "perc": 55, "tit": "NO" }
+{ "nome": "GIANNETTI", "perc": 40, "tit": "NO" }
