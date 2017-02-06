@@ -73,7 +73,7 @@
 					<c:if test="${rosa != null and !rosa.vuota}">
 						<li><a href="rimuoviRosa.do?">Rimuovi Rosa</a></li>
 					</c:if>
-					<li>
+					<li class="error">
 						<font color="red">${errori["giocatore_da_aggiungere"]}</font> 
 						<font color="red">${nontrovato}</font>
 					</li>
