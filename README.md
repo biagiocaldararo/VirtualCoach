@@ -12,6 +12,8 @@ Web application for Fantasy Soccer Players (Italy)
 * Eclipse IDE for Java EE Developers (Neon package)
 * Git
 
+NB: assicurarsi di impostare il corretto percorso nel file script.sh prima di eseguirlo
+
 ##IMPORTARE IL PROGETTO
 
 clonare la repository tramite la linea di comando git:
