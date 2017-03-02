@@ -39,7 +39,7 @@ public class Modulo {
 		List<Giocatore> modulo5 = generaModulo(giocatori, "541");
 		List<Giocatore> modulo6 = generaModulo(giocatori, "532");
 		List<Giocatore> modulo7 = generaModulo(giocatori, "343");
-		List<Giocatore> modulo8 = generaModulo(giocatori, "424");
+		//List<Giocatore> modulo8 = generaModulo(giocatori, "424");
 
 		punteggi.add(getPunteggio(modulo1));
 		punteggi.add(getPunteggio(modulo2));
@@ -48,7 +48,7 @@ public class Modulo {
 		punteggi.add(getPunteggio(modulo5));
 		punteggi.add(getPunteggio(modulo6));
 		punteggi.add(getPunteggio(modulo7));
-		punteggi.add(getPunteggio(modulo8));
+		//punteggi.add(getPunteggio(modulo8));
 
 		switch (getMaxIndex(punteggi)) {
 		case 0:
@@ -72,9 +72,9 @@ public class Modulo {
 		case 6:
 			migliore = modulo7;
 			break;
-		case 7:
-			migliore = modulo8;
-			break;
+		//case 7:
+		//	migliore = modulo8;
+		//	break;
 		}
 
 		return migliore;
