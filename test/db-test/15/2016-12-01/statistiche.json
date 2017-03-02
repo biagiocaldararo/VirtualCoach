@@ -1,0 +1,572 @@
+{ "nome" : "ZAMPANO F", "pg" : 12, "gol" : 0, "assist" : 4, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 6.29 }
+{ "nome" : "MILIK", "pg" : 7, "gol" : 4, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.43, "fmedia" : 8.07 }
+{ "nome" : "BERISHA", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.4, "fmedia" : 5.7 }
+{ "nome" : "NURA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LUIZ ADRIANO", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.25, "fmedia" : 5.25 }
+{ "nome" : "PIERINI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ZAPATA C", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LO FASO", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DANILO", "pg" : 14, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.64, "fmedia" : 5.75 }
+{ "nome" : "EL SHAARAWY", "pg" : 13, "gol" : 2, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 6.04, "fmedia" : 6.62 }
+{ "nome" : "BERARDI", "pg" : 2, "gol" : 2, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 7, "fmedia" : 10.0 }
+{ "nome" : "PULGAR", "pg" : 10, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.75, "fmedia" : 5.94 }
+{ "nome" : "OIKONOMOU", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.43, "fmedia" : 5.43 }
+{ "nome" : "MORETTI", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.9, "fmedia" : 5.8 }
+{ "nome" : "WAGUE", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.67, "fmedia" : 5.5 }
+{ "nome" : "KISHNA", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "BARRECA", "pg" : 10, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.2, "fmedia" : 6.25 }
+{ "nome" : "SARR", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "VERDI", "pg" : 11, "gol" : 4, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 6.45, "fmedia" : 7.65 }
+{ "nome" : "STOIAN", "pg" : 9, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.8, "fmedia" : 6.25 }
+{ "nome" : "MISSIROLI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.67, "fmedia" : 5.5 }
+{ "nome" : "TOTTI", "pg" : 7, "gol" : 2, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6.75, "fmedia" : 8.62 }
+{ "nome" : "SAMPIRISI", "pg" : 8, "gol" : 1, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 6.17 }
+{ "nome" : "TONEV", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.7, "fmedia" : 5.6 }
+{ "nome" : "CODA", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5, "fmedia" : 4.67 }
+{ "nome" : "GONZALEZ G", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 1, "media" : 5.6, "fmedia" : 5.1 }
+{ "nome" : "BARELLA", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 5.83, "fmedia" : 5.83 }
+{ "nome" : "BIRAGHI", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.82, "fmedia" : 5.71 }
+{ "nome" : "QUAGLIARELLA", "pg" : 14, "gol" : 4, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 5.89, "fmedia" : 6.68 }
+{ "nome" : "LEMINA", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.06, "fmedia" : 6.0 }
+{ "nome" : "INSIGNE R", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DIAMANTI", "pg" : 12, "gol" : 0, "assist" : 2, "gialli" : 5, "rossi" : 0, "media" : 5.88, "fmedia" : 5.83 }
+{ "nome" : "MILIC", "pg" : 10, "gol" : 0, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 5.65, "fmedia" : 5.64 }
+{ "nome" : "KREJCI", "pg" : 13, "gol" : 0, "assist" : 3, "gialli" : 0, "rossi" : 0, "media" : 5.85, "fmedia" : 6.08 }
+{ "nome" : "PEREIRA P", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.2, "fmedia" : 4.9 }
+{ "nome" : "CORDAZ", "pg" : 13, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.15, "fmedia" : 4.31 }
+{ "nome" : "ALLAN", "pg" : 13, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.08, "fmedia" : 6.0 }
+{ "nome" : "BRIVIO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "YAO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BELOTTI", "pg" : 12, "gol" : 10, "assist" : 2, "gialli" : 2, "rossi" : 0, "media" : 6.88, "fmedia" : 8.96 }
+{ "nome" : "LAURINI", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5.8, "fmedia" : 5.6 }
+{ "nome" : "FREY", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.75, "fmedia" : 5.5 }
+{ "nome" : "GAZZI", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 5.95, "fmedia" : 5.82 }
+{ "nome" : "ALBIOL", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6, "fmedia" : 5.75 }
+{ "nome" : "INSIGNE", "pg" : 13, "gol" : 3, "assist" : 4, "gialli" : 1, "rossi" : 0, "media" : 6.15, "fmedia" : 7.12 }
+{ "nome" : "EDENILSON", "pg" : 8, "gol" : 0, "assist" : 2, "gialli" : 1, "rossi" : 1, "media" : 6.43, "fmedia" : 6.44 }
+{ "nome" : "MOLINARO", "pg" : 4, "gol" : 0, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 5.88, "fmedia" : 6.25 }
+{ "nome" : "MUNOZ", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.07, "fmedia" : 6.0 }
+{ "nome" : "MESBAH", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.92, "fmedia" : 5.83 }
+{ "nome" : "EMERSON", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.92, "fmedia" : 5.83 }
+{ "nome" : "ILICIC", "pg" : 12, "gol" : 3, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 5.95, "fmedia" : 6.62 }
+{ "nome" : "DESSENA", "pg" : 3, "gol" : 2, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 5.83, "fmedia" : 7.33 }
+{ "nome" : "FLORO FLORES", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.61, "fmedia" : 5.61 }
+{ "nome" : "CIONEK", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.45, "fmedia" : 5.3 }
+{ "nome" : "ANSALDI", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.5, "fmedia" : 5.21 }
+{ "nome" : "TELLO A", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.55, "fmedia" : 5.4 }
+{ "nome" : "TOLEDO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SARZI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "FESTA", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 7, "fmedia" : 4.0 }
+{ "nome" : "ROG", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ROSSETTINI", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.8, "fmedia" : 5.75 }
+{ "nome" : "COJOCARU", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PALOMBO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "POMINI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PUCCIARELLI", "pg" : 13, "gol" : 1, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.46, "fmedia" : 5.69 }
+{ "nome" : "BOUY", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.0 }
+{ "nome" : "DODO'", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 4, "fmedia" : 4.0 }
+{ "nome" : "VECINO", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 5.88 }
+{ "nome" : "BITTANTE", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.5, "fmedia" : 5.12 }
+{ "nome" : "MITRITA", "pg" : 8, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.62, "fmedia" : 5.69 }
+{ "nome" : "ZUKANOVIC", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.1, "fmedia" : 6.1 }
+{ "nome" : "LIROLA", "pg" : 8, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.69, "fmedia" : 5.75 }
+{ "nome" : "GIACCHERINI", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.62, "fmedia" : 5.62 }
+{ "nome" : "GABIGOL", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RAFAEL", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.25, "fmedia" : 6.25 }
+{ "nome" : "RADU", "pg" : 11, "gol" : 1, "assist" : 1, "gialli" : 6, "rossi" : 0, "media" : 6.09, "fmedia" : 6.18 }
+{ "nome" : "PASQUAL", "pg" : 11, "gol" : 0, "assist" : 2, "gialli" : 3, "rossi" : 0, "media" : 5.82, "fmedia" : 5.86 }
+{ "nome" : "BUFFON", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.05, "fmedia" : 5.12 }
+{ "nome" : "PAREDES", "pg" : 11, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.12, "fmedia" : 6.38 }
+{ "nome" : "VALDIFIORI", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.21, "fmedia" : 6.08 }
+{ "nome" : "DZEKO", "pg" : 14, "gol" : 12, "assist" : 2, "gialli" : 2, "rossi" : 0, "media" : 6.71, "fmedia" : 9.36 }
+{ "nome" : "CARBONERO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ICARDI", "pg" : 14, "gol" : 12, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 6.32, "fmedia" : 8.82 }
+{ "nome" : "MURGIA", "pg" : 5, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.33, "fmedia" : 7.33 }
+{ "nome" : "GRASSI", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.88, "fmedia" : 5.88 }
+{ "nome" : "GAZZOLA", "pg" : 7, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.57, "fmedia" : 5.57 }
+{ "nome" : "POLI", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.7, "fmedia" : 5.6 }
+{ "nome" : "GYOMBER", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.25, "fmedia" : 5.0 }
+{ "nome" : "VERRE", "pg" : 9, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.89, "fmedia" : 5.94 }
+{ "nome" : "WALLACE", "pg" : 9, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.89, "fmedia" : 6.11 }
+{ "nome" : "MURRU", "pg" : 10, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.65, "fmedia" : 5.65 }
+{ "nome" : "TOROSIDIS", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.21, "fmedia" : 5.14 }
+{ "nome" : "SEPE", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MASIELLO A", "pg" : 13, "gol" : 3, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.23, "fmedia" : 6.85 }
+{ "nome" : "PALETTA", "pg" : 11, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 2, "media" : 6.14, "fmedia" : 6.18 }
+{ "nome" : "NAGY", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.12, "fmedia" : 6.08 }
+{ "nome" : "RADU I", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "POLITANO", "pg" : 13, "gol" : 2, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6.35, "fmedia" : 6.92 }
+{ "nome" : "PEGOLO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ACERBI", "pg" : 14, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.14, "fmedia" : 6.29 }
+{ "nome" : "TELLO C", "pg" : 13, "gol" : 0, "assist" : 3, "gialli" : 1, "rossi" : 0, "media" : 5.79, "fmedia" : 6.0 }
+{ "nome" : "BAHEBECK", "pg" : 4, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.33, "fmedia" : 7.33 }
+{ "nome" : "ZANELLATO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ASTORI", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.14, "fmedia" : 6.29 }
+{ "nome" : "RIGONI", "pg" : 14, "gol" : 2, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.23, "fmedia" : 6.54 }
+{ "nome" : "SAPONARA", "pg" : 13, "gol" : 2, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 6, "fmedia" : 6.42 }
+{ "nome" : "IEMMELLO", "pg" : 7, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.4, "fmedia" : 5.9 }
+{ "nome" : "VIVES", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5.67, "fmedia" : 5.33 }
+{ "nome" : "ALEX SANDRO", "pg" : 14, "gol" : 0, "assist" : 2, "gialli" : 3, "rossi" : 0, "media" : 6.18, "fmedia" : 6.07 }
+{ "nome" : "CRISTANTE", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.68, "fmedia" : 5.68 }
+{ "nome" : "CUOMO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "VIVIANI", "pg" : 4, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.17, "fmedia" : 7.33 }
+{ "nome" : "COSTA F", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RODRIGUEZ GO", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 1, "media" : 5.55, "fmedia" : 5.42 }
+{ "nome" : "KOULIBALY", "pg" : 14, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.07, "fmedia" : 6.18 }
+{ "nome" : "EWANDRO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RAGUSA", "pg" : 7, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.64, "fmedia" : 6.14 }
+{ "nome" : "DE GUZMAN", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.08, "fmedia" : 6.0 }
+{ "nome" : "DEFREL", "pg" : 13, "gol" : 6, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.38, "fmedia" : 7.77 }
+{ "nome" : "RICCI", "pg" : 11, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.56, "fmedia" : 5.72 }
+{ "nome" : "GENTILETTI", "pg" : 4, "gol" : 0, "assist" : 1, "gialli" : 0, "rossi" : 1, "media" : 5.25, "fmedia" : 5.4 }
+{ "nome" : "MUNARI", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 5.75, "fmedia" : 5.42 }
+{ "nome" : "DRAGOWSKI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 5.0 }
+{ "nome" : "STENDARDO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "KURTIC", "pg" : 14, "gol" : 4, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.21, "fmedia" : 7.11 }
+{ "nome" : "KUCKA", "pg" : 12, "gol" : 1, "assist" : 1, "gialli" : 3, "rossi" : 1, "media" : 5.79, "fmedia" : 5.75 }
+{ "nome" : "PRAET", "pg" : 10, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.06, "fmedia" : 6.12 }
+{ "nome" : "FALCINELLI", "pg" : 13, "gol" : 4, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 5.96, "fmedia" : 6.96 }
+{ "nome" : "FLOCCARI", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.12, "fmedia" : 5.12 }
+{ "nome" : "MURILLO", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.82, "fmedia" : 5.73 }
+{ "nome" : "BENTIVEGNA", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.75 }
+{ "nome" : "KARNEZIS", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.21, "fmedia" : 4.46 }
+{ "nome" : "PATRIC", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.93, "fmedia" : 5.79 }
+{ "nome" : "LULIC", "pg" : 13, "gol" : 2, "assist" : 2, "gialli" : 2, "rossi" : 0, "media" : 6.04, "fmedia" : 6.58 }
+{ "nome" : "PUGGIONI", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.25, "fmedia" : 4.67 }
+{ "nome" : "AUDERO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "JOAO PEDRO", "pg" : 3, "gol" : 1, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 6.5, "fmedia" : 7.83 }
+{ "nome" : "SENSI", "pg" : 4, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.75 }
+{ "nome" : "SALCEDO", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.88, "fmedia" : 5.67 }
+{ "nome" : "PALACIO", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.88, "fmedia" : 5.88 }
+{ "nome" : "SANTON", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.25, "fmedia" : 5.2 }
+{ "nome" : "KRAPIKAS", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LAPADULA", "pg" : 8, "gol" : 3, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.62, "fmedia" : 8.75 }
+{ "nome" : "MORLEO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "IMMOBILE", "pg" : 14, "gol" : 9, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.54, "fmedia" : 8.39 }
+{ "nome" : "CRESCENZI", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.67, "fmedia" : 5.61 }
+{ "nome" : "MAZZITELLI", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6, "fmedia" : 5.79 }
+{ "nome" : "CESAR", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.88, "fmedia" : 5.5 }
+{ "nome" : "FELIPE MELO", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 5.75 }
+{ "nome" : "BASTIEN", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "IAGO FALQUE", "pg" : 11, "gol" : 7, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 6.64, "fmedia" : 8.73 }
+{ "nome" : "HANDANOVIC", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.21, "fmedia" : 4.79 }
+{ "nome" : "BABACAR", "pg" : 6, "gol" : 2, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.8, "fmedia" : 6.83 }
+{ "nome" : "LEITNER", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MARIO RUI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "HEURTAUX", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.75, "fmedia" : 5.4 }
+{ "nome" : "INGLESE", "pg" : 14, "gol" : 2, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.71, "fmedia" : 6.21 }
+{ "nome" : "PINAMONTI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MURIC", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "KESSIE'", "pg" : 12, "gol" : 5, "assist" : 0, "gialli" : 3, "rossi" : 1, "media" : 6.67, "fmedia" : 7.71 }
+{ "nome" : "ZARATE", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5, "fmedia" : 5.5 }
+{ "nome" : "MATTIELLO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "STURARO", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.75, "fmedia" : 5.5 }
+{ "nome" : "MANOLAS", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.29, "fmedia" : 6.42 }
+{ "nome" : "BRUNO ALVES", "pg" : 14, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 6.14 }
+{ "nome" : "SALZANO", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "HAGI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "FARAONI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.0 }
+{ "nome" : "RINCON", "pg" : 14, "gol" : 0, "assist" : 1, "gialli" : 4, "rossi" : 0, "media" : 6.31, "fmedia" : 6.21 }
+{ "nome" : "PISACANE", "pg" : 8, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "ALDEGANI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "IONITA", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 5.67 }
+{ "nome" : "GOMEZ G", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.92, "fmedia" : 5.83 }
+{ "nome" : "VERMAELEN", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "CALLEJON", "pg" : 14, "gol" : 7, "assist" : 3, "gialli" : 0, "rossi" : 0, "media" : 6.18, "fmedia" : 7.89 }
+{ "nome" : "WIDMER", "pg" : 9, "gol" : 0, "assist" : 3, "gialli" : 1, "rossi" : 0, "media" : 5.78, "fmedia" : 6.06 }
+{ "nome" : "BASELLI", "pg" : 14, "gol" : 4, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.92, "fmedia" : 6.85 }
+{ "nome" : "NETO", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.25, "fmedia" : 5.83 }
+{ "nome" : "LASICKI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SALAH", "pg" : 14, "gol" : 8, "assist" : 4, "gialli" : 2, "rossi" : 0, "media" : 6.25, "fmedia" : 8.18 }
+{ "nome" : "MIGUEL VELOSO", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 4, "rossi" : 1, "media" : 6, "fmedia" : 5.82 }
+{ "nome" : "LODI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "JAJALO", "pg" : 7, "gol" : 0, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 5.36, "fmedia" : 5.5 }
+{ "nome" : "GNAHORE'", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "IZCO", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "CARRIZO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ADJAPONG", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5, "fmedia" : 4.75 }
+{ "nome" : "HELANDER", "pg" : 5, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.9, "fmedia" : 6.4 }
+{ "nome" : "MAKSIMOVIC", "pg" : 3, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.83, "fmedia" : 6.83 }
+{ "nome" : "GABRIEL", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "IERARDI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CALDARA", "pg" : 8, "gol" : 3, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.69, "fmedia" : 7.75 }
+{ "nome" : "GOMEZ A", "pg" : 14, "gol" : 3, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6.57, "fmedia" : 7.32 }
+{ "nome" : "LEZZERINI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 7, "fmedia" : 6.0 }
+{ "nome" : "HIGUAIN", "pg" : 14, "gol" : 7, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.21, "fmedia" : 7.71 }
+{ "nome" : "ERAMO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RAFAEL CABRAL", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LINETTY", "pg" : 13, "gol" : 0, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 6.15, "fmedia" : 6.12 }
+{ "nome" : "DIAWARA", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.25, "fmedia" : 6.25 }
+{ "nome" : "COPPOLA D", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ZAMBELLI", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.42, "fmedia" : 5.33 }
+{ "nome" : "GAKPE'", "pg" : 6, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 6.5 }
+{ "nome" : "LUKIC", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "VANGIONI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SILVESTRE", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.18, "fmedia" : 6.11 }
+{ "nome" : "ALEESAMI", "pg" : 14, "gol" : 0, "assist" : 2, "gialli" : 3, "rossi" : 0, "media" : 5.93, "fmedia" : 5.96 }
+{ "nome" : "THEREAU", "pg" : 11, "gol" : 5, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 7.32 }
+{ "nome" : "BALOGH", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "PALOSCHI", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.6, "fmedia" : 5.0 }
+{ "nome" : "DANI ALVES", "pg" : 8, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.79, "fmedia" : 6.07 }
+{ "nome" : "ZUPARIC", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.88, "fmedia" : 5.75 }
+{ "nome" : "FELIPE", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 5.75, "fmedia" : 5.79 }
+{ "nome" : "BRESSAN", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ZIMA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 5.0 }
+{ "nome" : "PETTINARI", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "ZAPATA D", "pg" : 14, "gol" : 4, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.04, "fmedia" : 6.82 }
+{ "nome" : "HETEMAJ", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.14, "fmedia" : 6.0 }
+{ "nome" : "SADIQ", "pg" : 5, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.9, "fmedia" : 5.9 }
+{ "nome" : "BADELJ", "pg" : 13, "gol" : 1, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 5.83, "fmedia" : 6.04 }
+{ "nome" : "BIABIANY", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "GOBBI", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.92, "fmedia" : 6.04 }
+{ "nome" : "BERNARDESCHI", "pg" : 13, "gol" : 6, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.38, "fmedia" : 7.61 }
+{ "nome" : "KONE", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.62, "fmedia" : 5.5 }
+{ "nome" : "DAINELLI", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 6, "rossi" : 0, "media" : 6.14, "fmedia" : 5.68 }
+{ "nome" : "CALABRIA", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 5.67 }
+{ "nome" : "PANDEV", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5.25, "fmedia" : 5.2 }
+{ "nome" : "ANIBAL", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CASTRO", "pg" : 13, "gol" : 2, "assist" : 2, "gialli" : 1, "rossi" : 1, "media" : 6.27, "fmedia" : 6.77 }
+{ "nome" : "BERNI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DE VRIJ", "pg" : 8, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.25, "fmedia" : 6.56 }
+{ "nome" : "PETAGNA", "pg" : 10, "gol" : 3, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 6.5, "fmedia" : 7.5 }
+{ "nome" : "HYSAJ", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.71, "fmedia" : 5.62 }
+{ "nome" : "ZAPPACOSTA", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 6.25, "fmedia" : 6.35 }
+{ "nome" : "ROHDEN", "pg" : 14, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.57, "fmedia" : 5.57 }
+{ "nome" : "DONSAH", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "PELUSO", "pg" : 13, "gol" : 0, "assist" : 1, "gialli" : 4, "rossi" : 0, "media" : 5.69, "fmedia" : 5.62 }
+{ "nome" : "PUNZI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "TOZZO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ZONTA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BUDIMIR", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.71, "fmedia" : 5.71 }
+{ "nome" : "BOYE'", "pg" : 12, "gol" : 0, "assist" : 2, "gialli" : 3, "rossi" : 0, "media" : 6.23, "fmedia" : 6.27 }
+{ "nome" : "PRCE", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DE SILVESTRI", "pg" : 6, "gol" : 0, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 5.92, "fmedia" : 6.25 }
+{ "nome" : "MOUNIER", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5, "fmedia" : 5.0 }
+{ "nome" : "CANNAVARO", "pg" : 6, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 6.25 }
+{ "nome" : "PERIN", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.3, "fmedia" : 5.29 }
+{ "nome" : "DJURICIC", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "MEMUSHAJ", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.92, "fmedia" : 5.92 }
+{ "nome" : "RAJKOVIC", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5.75, "fmedia" : 5.5 }
+{ "nome" : "ACATULLO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LOMBARDI", "pg" : 6, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.17, "fmedia" : 7.17 }
+{ "nome" : "SUAGHER", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BIRSA", "pg" : 13, "gol" : 3, "assist" : 4, "gialli" : 1, "rossi" : 0, "media" : 6.15, "fmedia" : 7.12 }
+{ "nome" : "RANOCCHIA", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.38, "fmedia" : 5.25 }
+{ "nome" : "TOMOVIC", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 4, "rossi" : 0, "media" : 5.65, "fmedia" : 5.59 }
+{ "nome" : "BARRETO E", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 1, "media" : 6.04, "fmedia" : 6.12 }
+{ "nome" : "DUNCAN", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.9, "fmedia" : 5.9 }
+{ "nome" : "PADOIN", "pg" : 14, "gol" : 1, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.96, "fmedia" : 6.18 }
+{ "nome" : "TAIDER", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.04, "fmedia" : 6.23 }
+{ "nome" : "BELLUSCI", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 7, "rossi" : 0, "media" : 5.62, "fmedia" : 5.58 }
+{ "nome" : "CECCHERINI", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.54, "fmedia" : 5.46 }
+{ "nome" : "ROSI", "pg" : 10, "gol" : 1, "assist" : 1, "gialli" : 4, "rossi" : 0, "media" : 6.1, "fmedia" : 6.3 }
+{ "nome" : "BONAVENTURA", "pg" : 14, "gol" : 2, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.32, "fmedia" : 6.68 }
+{ "nome" : "EVRA", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.12, "fmedia" : 6.12 }
+{ "nome" : "FIORILLO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "REGINI", "pg" : 14, "gol" : 0, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 5.71, "fmedia" : 5.86 }
+{ "nome" : "VARGIC", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "FLORENZI", "pg" : 9, "gol" : 0, "assist" : 4, "gialli" : 3, "rossi" : 0, "media" : 6.17, "fmedia" : 6.44 }
+{ "nome" : "ACQUAFRESCA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PESIC", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PAROLO", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.07, "fmedia" : 5.96 }
+{ "nome" : "GOLDANIGA", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 5.4, "fmedia" : 4.95 }
+{ "nome" : "MARCHETTI", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.33, "fmedia" : 5.11 }
+{ "nome" : "AVELAR", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "REINA", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 4.93 }
+{ "nome" : "DELL'ORCO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "CARMONA", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 4.75, "fmedia" : 4.0 }
+{ "nome" : "LOBONT", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "TRAJKOVSKI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "OLIVERA M", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.67 }
+{ "nome" : "TATARUSANU", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.04, "fmedia" : 4.89 }
+{ "nome" : "CLAITON", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.31, "fmedia" : 5.25 }
+{ "nome" : "ABATE", "pg" : 11, "gol" : 0, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 5.73, "fmedia" : 5.86 }
+{ "nome" : "PEROTTI", "pg" : 11, "gol" : 5, "assist" : 4, "gialli" : 0, "rossi" : 0, "media" : 6.35, "fmedia" : 8.25 }
+{ "nome" : "NAGATOMO", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.7, "fmedia" : 5.7 }
+{ "nome" : "MELCHIORRI", "pg" : 7, "gol" : 3, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.07, "fmedia" : 7.36 }
+{ "nome" : "DUSSENNE", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 4.62, "fmedia" : 4.25 }
+{ "nome" : "KHEDIRA", "pg" : 11, "gol" : 3, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 6.14, "fmedia" : 7.14 }
+{ "nome" : "CAMPAGNARO", "pg" : 11, "gol" : 1, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 5.73, "fmedia" : 5.59 }
+{ "nome" : "ROMAGNOLI A", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.96, "fmedia" : 5.88 }
+{ "nome" : "NIANG", "pg" : 12, "gol" : 3, "assist" : 2, "gialli" : 0, "rossi" : 1, "media" : 6.05, "fmedia" : 6.95 }
+{ "nome" : "EL KADDOURI", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MAXI LOPEZ", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.75, "fmedia" : 5.62 }
+{ "nome" : "VIVIANO", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.19, "fmedia" : 5.0 }
+{ "nome" : "NICOLETTI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DYBALA", "pg" : 8, "gol" : 3, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 6.56, "fmedia" : 7.94 }
+{ "nome" : "DEL SOLE", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MIGLIACCIO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BROZOVIC", "pg" : 7, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 6.29 }
+{ "nome" : "CASSANO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "TORREIRA", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.29, "fmedia" : 6.25 }
+{ "nome" : "D'AMBROSIO", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.62, "fmedia" : 5.56 }
+{ "nome" : "OBI", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.82, "fmedia" : 5.86 }
+{ "nome" : "MAGGIO", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.83, "fmedia" : 5.83 }
+{ "nome" : "PUGLIESI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "JOVETIC", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.67, "fmedia" : 5.5 }
+{ "nome" : "KEITA B", "pg" : 12, "gol" : 4, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6.54, "fmedia" : 7.67 }
+{ "nome" : "CISSOKHO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MILINKOVIC-SAVIC", "pg" : 12, "gol" : 2, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 6.62 }
+{ "nome" : "BASTA", "pg" : 10, "gol" : 0, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 6.15 }
+{ "nome" : "BURDISSO", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.31, "fmedia" : 6.25 }
+{ "nome" : "HART", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.17, "fmedia" : 5.0 }
+{ "nome" : "MATRI", "pg" : 11, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.6, "fmedia" : 5.9 }
+{ "nome" : "MIANGUE", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RISPOLI", "pg" : 12, "gol" : 1, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.88, "fmedia" : 6.12 }
+{ "nome" : "HOEDT", "pg" : 6, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.25, "fmedia" : 6.75 }
+{ "nome" : "NAINGGOLAN", "pg" : 13, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.08, "fmedia" : 6.38 }
+{ "nome" : "FOFANA", "pg" : 9, "gol" : 3, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.33, "fmedia" : 7.33 }
+{ "nome" : "STRINIC", "pg" : 3, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.67, "fmedia" : 5.83 }
+{ "nome" : "ZIELINSKI", "pg" : 13, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.08, "fmedia" : 6.12 }
+{ "nome" : "GABBIADINI", "pg" : 10, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5.17, "fmedia" : 5.39 }
+{ "nome" : "BRUNO HENRIQUE", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 5.82, "fmedia" : 5.91 }
+{ "nome" : "MARCHIZZA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BADU", "pg" : 11, "gol" : 0, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 5.73, "fmedia" : 5.86 }
+{ "nome" : "FREULER", "pg" : 10, "gol" : 0, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 6.33, "fmedia" : 6.44 }
+{ "nome" : "BIZZARRI", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.14, "fmedia" : 4.11 }
+{ "nome" : "CEPPITELLI", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.45, "fmedia" : 5.14 }
+{ "nome" : "TCHANTURIA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LETSCHERT", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "MANAJ", "pg" : 9, "gol" : 2, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 6.19 }
+{ "nome" : "MAURI J", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.07, "fmedia" : 5.93 }
+{ "nome" : "BARBA", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.62, "fmedia" : 5.5 }
+{ "nome" : "SIMY", "pg" : 7, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 6.0 }
+{ "nome" : "BERTOLACCI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "TOLOI", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 6.22, "fmedia" : 5.94 }
+{ "nome" : "MAZZINI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LUKAKU", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.9, "fmedia" : 5.8 }
+{ "nome" : "GOMIS A", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CHIELLINI", "pg" : 9, "gol" : 2, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.19, "fmedia" : 7.0 }
+{ "nome" : "MIRANDA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PEPE", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "SKRINIAR", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.67, "fmedia" : 5.54 }
+{ "nome" : "PEZZELLA", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.0 }
+{ "nome" : "RADOVANOVIC", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.96, "fmedia" : 5.79 }
+{ "nome" : "SECULIN", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RUDIGER", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.88, "fmedia" : 5.75 }
+{ "nome" : "SIMEONE", "pg" : 11, "gol" : 4, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 7.0 }
+{ "nome" : "FARIAS", "pg" : 4, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.75, "fmedia" : 6.38 }
+{ "nome" : "EDER", "pg" : 12, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.05, "fmedia" : 6.36 }
+{ "nome" : "BIRASCHI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 5.5 }
+{ "nome" : "ORBAN", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 1, "media" : 5.67, "fmedia" : 5.36 }
+{ "nome" : "MCHEDLIDZE", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.33, "fmedia" : 5.33 }
+{ "nome" : "CAPUANO", "pg" : 3, "gol" : 2, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.67, "fmedia" : 7.67 }
+{ "nome" : "ISLA", "pg" : 13, "gol" : 0, "assist" : 2, "gialli" : 3, "rossi" : 0, "media" : 5.62, "fmedia" : 5.65 }
+{ "nome" : "STRAKOSHA", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.4, "fmedia" : 5.8 }
+{ "nome" : "DE GIORGIO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MAIELLO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5, "fmedia" : 5.0 }
+{ "nome" : "DIOUSSE'", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.82, "fmedia" : 5.68 }
+{ "nome" : "GNOUKOURI", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "FAZIO", "pg" : 13, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.92, "fmedia" : 5.92 }
+{ "nome" : "MIRANTE", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.83, "fmedia" : 4.5 }
+{ "nome" : "SZCZESNY", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.39, "fmedia" : 5.46 }
+{ "nome" : "BRUGMAN", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 5.88, "fmedia" : 5.67 }
+{ "nome" : "PADELLI", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 3.75 }
+{ "nome" : "JOSE' SOSA", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "ARAMU", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "TROIANI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "FIAMOZZI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DI FRANCESCO F", "pg" : 8, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 5.7, "fmedia" : 6.0 }
+{ "nome" : "ANTONELLI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "ADNAN", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.29, "fmedia" : 5.29 }
+{ "nome" : "HERNANES", "pg" : 10, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.72, "fmedia" : 5.89 }
+{ "nome" : "CUADRADO", "pg" : 9, "gol" : 0, "assist" : 3, "gialli" : 2, "rossi" : 0, "media" : 6.22, "fmedia" : 6.44 }
+{ "nome" : "FERRARI A", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 4.5, "fmedia" : 4.5 }
+{ "nome" : "PELLEGRINI", "pg" : 11, "gol" : 1, "assist" : 3, "gialli" : 3, "rossi" : 0, "media" : 6, "fmedia" : 6.41 }
+{ "nome" : "FORNASIER", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.78, "fmedia" : 5.67 }
+{ "nome" : "MONTOLIVO", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.79, "fmedia" : 5.64 }
+{ "nome" : "KUMS", "pg" : 12, "gol" : 0, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 5.79, "fmedia" : 5.88 }
+{ "nome" : "DIMARCO", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.33, "fmedia" : 5.33 }
+{ "nome" : "MARILUNGO", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.57, "fmedia" : 5.57 }
+{ "nome" : "SALA", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.36, "fmedia" : 5.23 }
+{ "nome" : "ASAMOAH", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.7, "fmedia" : 5.6 }
+{ "nome" : "KEAN", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CRISTOFORO", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CATALDI", "pg" : 8, "gol" : 1, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 6, "fmedia" : 6.31 }
+{ "nome" : "KALINIC", "pg" : 14, "gol" : 6, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 6.15, "fmedia" : 7.43 }
+{ "nome" : "CABEZAS", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RUGANI", "pg" : 4, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.12, "fmedia" : 6.75 }
+{ "nome" : "BORJA VALERO", "pg" : 12, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 6.23, "fmedia" : 6.21 }
+{ "nome" : "PASALIC", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.67, "fmedia" : 5.67 }
+{ "nome" : "SKORUPSKI", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.59, "fmedia" : 5.04 }
+{ "nome" : "DE PAUL", "pg" : 13, "gol" : 0, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "GUSTAFSON", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DE ROSSI", "pg" : 12, "gol" : 0, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 5.96, "fmedia" : 5.92 }
+{ "nome" : "HAMSIK", "pg" : 14, "gol" : 3, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 6.11, "fmedia" : 6.89 }
+{ "nome" : "POSAVEC", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.82, "fmedia" : 3.86 }
+{ "nome" : "DONNARUMMA G", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.54, "fmedia" : 5.39 }
+{ "nome" : "QUAISON", "pg" : 9, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.64, "fmedia" : 5.93 }
+{ "nome" : "MORRISON", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RIZZO", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.79, "fmedia" : 5.79 }
+{ "nome" : "MEGGIORINI", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.88, "fmedia" : 6.0 }
+{ "nome" : "FELIPE ANDERSON", "pg" : 13, "gol" : 2, "assist" : 4, "gialli" : 4, "rossi" : 0, "media" : 6.42, "fmedia" : 7.04 }
+{ "nome" : "RAIMONDI", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.62, "fmedia" : 5.38 }
+{ "nome" : "SARDO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "RIGONI N", "pg" : 7, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.9, "fmedia" : 6.4 }
+{ "nome" : "CONSIGLI", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.25, "fmedia" : 4.5 }
+{ "nome" : "KRUNIC", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.5, "fmedia" : 5.36 }
+{ "nome" : "MURIEL", "pg" : 14, "gol" : 6, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 6.54, "fmedia" : 7.82 }
+{ "nome" : "BIGLIA", "pg" : 8, "gol" : 1, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.57 }
+{ "nome" : "ARRAS", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BENATIA", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.14, "fmedia" : 6.07 }
+{ "nome" : "PLIZZARI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "JANKTO", "pg" : 9, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.92, "fmedia" : 6.42 }
+{ "nome" : "BALIC", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "VITTURINI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.17, "fmedia" : 5.17 }
+{ "nome" : "DE SCIGLIO", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.75, "fmedia" : 5.67 }
+{ "nome" : "FERNANDEZ M", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "MBAYE", "pg" : 3, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.33, "fmedia" : 4.83 }
+{ "nome" : "NEGRO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "NESTOROVSKI", "pg" : 14, "gol" : 7, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 7.46 }
+{ "nome" : "LATTE", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "EMBALO", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.6, "fmedia" : 5.6 }
+{ "nome" : "MARTELLA", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.55, "fmedia" : 5.55 }
+{ "nome" : "ANDREOLLI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SOLERI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "HILJEMARK", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.77, "fmedia" : 5.73 }
+{ "nome" : "SPINAZZOLA", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.14, "fmedia" : 6.14 }
+{ "nome" : "HALLFREDSSON", "pg" : 7, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 6.07 }
+{ "nome" : "MATOS", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 5.75 }
+{ "nome" : "BUCHEL", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.67, "fmedia" : 5.58 }
+{ "nome" : "DEPAOLI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ALISSON", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PAVLOVIC", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.33, "fmedia" : 5.0 }
+{ "nome" : "TACHTSIDIS", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.7, "fmedia" : 5.55 }
+{ "nome" : "TROTTA", "pg" : 8, "gol" : 2, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.88, "fmedia" : 6.56 }
+{ "nome" : "VITIELLO", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.83, "fmedia" : 5.67 }
+{ "nome" : "PARIGINI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5, "fmedia" : 5.0 }
+{ "nome" : "CONTI", "pg" : 11, "gol" : 1, "assist" : 1, "gialli" : 5, "rossi" : 0, "media" : 6.4, "fmedia" : 6.55 }
+{ "nome" : "BOVO", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.38, "fmedia" : 6.12 }
+{ "nome" : "LAXALT", "pg" : 14, "gol" : 1, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 6.23, "fmedia" : 6.39 }
+{ "nome" : "BONUCCI", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.96, "fmedia" : 6.12 }
+{ "nome" : "AQUILANI", "pg" : 8, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.79, "fmedia" : 6.29 }
+{ "nome" : "GASTALDELLO", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 2, "media" : 5.41, "fmedia" : 5.05 }
+{ "nome" : "MEDEL", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.15, "fmedia" : 6.0 }
+{ "nome" : "PJACA", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.25, "fmedia" : 6.25 }
+{ "nome" : "MACCARONE", "pg" : 11, "gol" : 2, "assist" : 1, "gialli" : 1, "rossi" : 1, "media" : 5.77, "fmedia" : 6.27 }
+{ "nome" : "PINILLA", "pg" : 4, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.33, "fmedia" : 7.0 }
+{ "nome" : "TOUNKARA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SAU", "pg" : 12, "gol" : 3, "assist" : 2, "gialli" : 3, "rossi" : 0, "media" : 6.04, "fmedia" : 6.83 }
+{ "nome" : "BANEGA", "pg" : 11, "gol" : 1, "assist" : 2, "gialli" : 0, "rossi" : 1, "media" : 5.5, "fmedia" : 5.86 }
+{ "nome" : "MARCHISIO", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.5, "fmedia" : 6.5 }
+{ "nome" : "SCUFFET", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SPOLLI", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.75, "fmedia" : 5.5 }
+{ "nome" : "COLOMBO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "TONELLI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ANGELLA", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.33, "fmedia" : 5.33 }
+{ "nome" : "MALOKU", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "GAGLIARDINI", "pg" : 10, "gol" : 0, "assist" : 2, "gialli" : 5, "rossi" : 0, "media" : 6.79, "fmedia" : 6.79 }
+{ "nome" : "PERISIC", "pg" : 13, "gol" : 4, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.12, "fmedia" : 7.0 }
+{ "nome" : "ZANIMACCHIA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PELLISSIER", "pg" : 11, "gol" : 1, "assist" : 1, "gialli" : 0, "rossi" : 0, "media" : 5.8, "fmedia" : 6.2 }
+{ "nome" : "DIAKHATE", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CASTAN", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.05, "fmedia" : 5.95 }
+{ "nome" : "PELAGOTTI", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 4.5 }
+{ "nome" : "MAGNANELLI", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 5.95 }
+{ "nome" : "NALINI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6, "fmedia" : 5.83 }
+{ "nome" : "BIONDINI", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 5.68, "fmedia" : 5.45 }
+{ "nome" : "JALLOW", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "GERSON", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5, "fmedia" : 5.0 }
+{ "nome" : "PERISAN", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "CACCIATORE", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 4, "rossi" : 1, "media" : 5.88, "fmedia" : 5.88 }
+{ "nome" : "JOAO MARIO", "pg" : 11, "gol" : 1, "assist" : 1, "gialli" : 4, "rossi" : 0, "media" : 6, "fmedia" : 6.18 }
+{ "nome" : "CROCE", "pg" : 13, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.12, "fmedia" : 6.08 }
+{ "nome" : "LJAJIC", "pg" : 10, "gol" : 5, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 6.7, "fmedia" : 8.2 }
+{ "nome" : "STORARI", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 5.83, "fmedia" : 3.38 }
+{ "nome" : "LAMANNA", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.5, "fmedia" : 5.33 }
+{ "nome" : "MAIETTA", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.94, "fmedia" : 5.89 }
+{ "nome" : "TABACCHI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "VISCOVO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DI GENNARO D", "pg" : 10, "gol" : 2, "assist" : 3, "gialli" : 2, "rossi" : 0, "media" : 6.1, "fmedia" : 6.9 }
+{ "nome" : "BASSI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ALVAREZ R", "pg" : 10, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 1, "media" : 5.72, "fmedia" : 5.67 }
+{ "nome" : "CHOCHEV", "pg" : 9, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.83, "fmedia" : 6.06 }
+{ "nome" : "PALLADINO", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.81, "fmedia" : 5.65 }
+{ "nome" : "JUAN JESUS", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.56, "fmedia" : 5.31 }
+{ "nome" : "CIGARINI", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6, "fmedia" : 5.67 }
+{ "nome" : "MASINA", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.58, "fmedia" : 5.46 }
+{ "nome" : "KONDOGBIA", "pg" : 7, "gol" : 0, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 5.5, "fmedia" : 5.43 }
+{ "nome" : "SALLAI", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 5.21, "fmedia" : 5.0 }
+{ "nome" : "DESTRO", "pg" : 9, "gol" : 4, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.78, "fmedia" : 7.11 }
+{ "nome" : "BRUNO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "KONKO", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.12, "fmedia" : 6.0 }
+{ "nome" : "GAMBERINI", "pg" : 7, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.29, "fmedia" : 6.71 }
+{ "nome" : "DE MAIO", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "FERRARI G", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.57, "fmedia" : 5.46 }
+{ "nome" : "AJETI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BACCA", "pg" : 13, "gol" : 6, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.12, "fmedia" : 7.46 }
+{ "nome" : "JORGINHO", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.78, "fmedia" : 5.67 }
+{ "nome" : "MIRANDA", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.07, "fmedia" : 5.96 }
+{ "nome" : "BENALI", "pg" : 12, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.04, "fmedia" : 6.29 }
+{ "nome" : "SCHICK", "pg" : 8, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.75, "fmedia" : 6.25 }
+{ "nome" : "SALAMON", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.38 }
+{ "nome" : "BARZAGLI", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.22, "fmedia" : 6.11 }
+{ "nome" : "PAVOLETTI", "pg" : 10, "gol" : 3, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.78, "fmedia" : 6.6 }
+{ "nome" : "FULIGNATI", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "OCAMPOS", "pg" : 8, "gol" : 2, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.14, "fmedia" : 6.72 }
+{ "nome" : "ANDELKOVIC", "pg" : 9, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.44, "fmedia" : 5.38 }
+{ "nome" : "CAPRARI", "pg" : 14, "gol" : 2, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.82, "fmedia" : 5.93 }
+{ "nome" : "LUCAS EVANGELISTA", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MANDRAGORA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "KRAJNC", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LOCATELLI M", "pg" : 11, "gol" : 2, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.09, "fmedia" : 6.5 }
+{ "nome" : "MANDZUKIC", "pg" : 13, "gol" : 3, "assist" : 1, "gialli" : 2, "rossi" : 0, "media" : 5.92, "fmedia" : 6.67 }
+{ "nome" : "MARTINEZ", "pg" : 9, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.72, "fmedia" : 5.89 }
+{ "nome" : "ITURBE", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SAMIR", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.38 }
+{ "nome" : "GIULIANO", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "PENARANDA", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.7, "fmedia" : 5.7 }
+{ "nome" : "ACQUAH", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 1, "media" : 5.67, "fmedia" : 5.5 }
+{ "nome" : "KRAFTH", "pg" : 7, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 1, "media" : 5.43, "fmedia" : 5.29 }
+{ "nome" : "GILARDINO", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.57, "fmedia" : 5.5 }
+{ "nome" : "CRISETIG", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 4, "rossi" : 0, "media" : 5.67, "fmedia" : 5.44 }
+{ "nome" : "STROOTMAN", "pg" : 12, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.96, "fmedia" : 6.25 }
+{ "nome" : "LAZOVIC", "pg" : 11, "gol" : 0, "assist" : 2, "gialli" : 0, "rossi" : 1, "media" : 6.05, "fmedia" : 6.14 }
+{ "nome" : "GRANATA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "IZZO", "pg" : 13, "gol" : 0, "assist" : 1, "gialli" : 3, "rossi" : 0, "media" : 6.21, "fmedia" : 6.0 }
+{ "nome" : "DA COSTA", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.36, "fmedia" : 5.05 }
+{ "nome" : "MATHEUS PEREIRA", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DZEMAILI", "pg" : 13, "gol" : 1, "assist" : 0, "gialli" : 3, "rossi" : 1, "media" : 5.96, "fmedia" : 6.0 }
+{ "nome" : "D'ALESSANDRO", "pg" : 12, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.31, "fmedia" : 6.31 }
+{ "nome" : "DRAME'", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.29, "fmedia" : 6.21 }
+{ "nome" : "BENASSI", "pg" : 12, "gol" : 4, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 6.17, "fmedia" : 7.21 }
+{ "nome" : "PERICA", "pg" : 11, "gol" : 3, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 6.2, "fmedia" : 7.0 }
+{ "nome" : "GHOULAM", "pg" : 12, "gol" : 0, "assist" : 2, "gialli" : 0, "rossi" : 0, "media" : 5.83, "fmedia" : 6.0 }
+{ "nome" : "RODRIGO ELY", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "ARMERO", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.5, "fmedia" : 5.25 }
+{ "nome" : "NTCHAM", "pg" : 6, "gol" : 1, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.92, "fmedia" : 6.43 }
+{ "nome" : "PJANIC", "pg" : 10, "gol" : 4, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6.2, "fmedia" : 7.55 }
+{ "nome" : "FAZZI", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "MINALA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SPORTIELLO", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 3.75 }
+{ "nome" : "VESELI", "pg" : 7, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.64, "fmedia" : 5.71 }
+{ "nome" : "BRUNO FERNANDES", "pg" : 11, "gol" : 3, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.2, "fmedia" : 7.05 }
+{ "nome" : "ZECCA", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "SORRENTINO", "pg" : 14, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.29, "fmedia" : 5.11 }
+{ "nome" : "BARBERIS", "pg" : 6, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.17, "fmedia" : 6.17 }
+{ "nome" : "NINKOVIC", "pg" : 7, "gol" : 1, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 5.83, "fmedia" : 6.21 }
+{ "nome" : "CAPEZZI", "pg" : 11, "gol" : 0, "assist" : 0, "gialli" : 3, "rossi" : 0, "media" : 5.94, "fmedia" : 5.78 }
+{ "nome" : "ANTEI", "pg" : 8, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.93, "fmedia" : 6.21 }
+{ "nome" : "MERTENS", "pg" : 13, "gol" : 3, "assist" : 0, "gialli" : 5, "rossi" : 0, "media" : 6.29, "fmedia" : 6.83 }
+{ "nome" : "COSTA", "pg" : 10, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.85, "fmedia" : 5.95 }
+{ "nome" : "BASTOS", "pg" : 4, "gol" : 0, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.75, "fmedia" : 5.5 }
+{ "nome" : "SUSO", "pg" : 14, "gol" : 5, "assist" : 2, "gialli" : 1, "rossi" : 0, "media" : 6.5, "fmedia" : 7.68 }
+{ "nome" : "COFIE", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 7, "fmedia" : 6.25 }
+{ "nome" : "MARSON", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "AMUZIE", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "DJORDJEVIC", "pg" : 10, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.86, "fmedia" : 5.86 }
+{ "nome" : "LUIS ALBERTO", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5, "fmedia" : 5.0 }
+{ "nome" : "DIKS", "pg" : 1, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "LICHTSTEINER", "pg" : 8, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 5.81, "fmedia" : 6.06 }
+{ "nome" : "SECK", "pg" : 0, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "BORRIELLO", "pg" : 14, "gol" : 5, "assist" : 0, "gialli" : 1, "rossi" : 0, "media" : 6.12, "fmedia" : 7.0 }
+{ "nome" : "GIANNETTI", "pg" : 8, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "CHIRICHES", "pg" : 6, "gol" : 1, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6.1, "fmedia" : 6.7 }
+{ "nome" : "CANDREVA", "pg" : 14, "gol" : 2, "assist" : 3, "gialli" : 0, "rossi" : 0, "media" : 6.23, "fmedia" : 6.92 }
+{ "nome" : "TERRANOVA", "pg" : 2, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.25, "fmedia" : 5.25 }
+{ "nome" : "CHIESA", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 6, "fmedia" : 6.0 }
+{ "nome" : "COSIC", "pg" : 5, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "SANCHEZ", "pg" : 11, "gol" : 1, "assist" : 0, "gialli" : 2, "rossi" : 0, "media" : 6.25, "fmedia" : 6.41 }
+{ "nome" : "BRUNO PERES", "pg" : 11, "gol" : 0, "assist" : 1, "gialli" : 1, "rossi" : 0, "media" : 5.77, "fmedia" : 5.82 }
+{ "nome" : "HONDA", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
+{ "nome" : "MORGANELLA", "pg" : 3, "gol" : 0, "assist" : 0, "gialli" : 0, "rossi" : 0, "media" : 5.5, "fmedia" : 5.5 }
