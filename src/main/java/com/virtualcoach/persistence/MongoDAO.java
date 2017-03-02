@@ -46,7 +46,7 @@ public class MongoDAO {
 		
 	}
 
-	public Document getGiornata() throws ParseException {
+	public Document getGiornataCorrente() throws ParseException {
 		
 	GregorianCalendar gc = new GregorianCalendar();
 	int g = gc.get(GregorianCalendar.DATE);
@@ -54,6 +54,38 @@ public class MongoDAO {
 	int a = gc.get(GregorianCalendar.YEAR);
 	DateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 	String data = g + "/" + m + "/" + a;	
+	Date dataCorrente = sdf.parse(data);
+	
+	FindIterable<Document> iterable = this.db.getCollection("giornate").find();
+	Document giornata = new Document();
+	Iterator<Document> iter = iterable.iterator();
+	
+	boolean trovato = false;
+	
+	while (iter.hasNext() && !trovato){
+		
+		Document document = iter.next();
+		String i = (String) document.get("inizio");
+    	String f = (String) document.get("fine");
+    	Date inizio = new Date();
+    	Date fine = new Date();
+		inizio = sdf.parse(i);
+		fine = sdf.parse(f);
+		
+		if (dataCorrente.equals(inizio) || dataCorrente.equals(fine) || (dataCorrente.after(inizio) && dataCorrente.before(fine))){
+			trovato = true;
+			giornata = document;
+		}
+	}
+	
+	return giornata;
+	
+	}
+	
+	public Document getGiornata() throws ParseException {
+		
+	DateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+	String data = "06/01/2017";	
 	Date dataCorrente = sdf.parse(data);
 	
 	FindIterable<Document> iterable = this.db.getCollection("giornate").find();
